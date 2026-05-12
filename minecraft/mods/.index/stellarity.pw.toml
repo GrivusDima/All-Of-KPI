@@ -1,0 +1,29 @@
+filename = 'Stellarity-3.0.6.1.jar'
+name = 'Stellarity'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.6.1+mod'
+
+[download]
+hash = '6863ab3cc68fcc55804dc10f0db4f04e2726c59bddd44a0543e7770fda2c8088838ce5adb60147140b2cf9d05621f5a5bd9acb3c215a7463eddd267c02e46c92'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bZgeDzN8/versions/csfOSC32/Stellarity-3.0.6.1.jar'
+
+[update.modrinth]
+mod-id = 'bZgeDzN8'
+version = 'csfOSC32'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'bxgn7qmu'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'IJHcrsas'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gc8OEnCC'
+type = 'INCOMPATIBLE'

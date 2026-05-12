@@ -1,0 +1,61 @@
+# 1. OS & System Junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 2. Launcher Settings (Keep local)
+instance.cfg
+
+# 3. Client-Specific Game Settings
+minecraft/options.txt
+minecraft/optionsof.txt
+minecraft/optionsshaders.txt
+minecraft/servers.dat
+minecraft/servers.dat_old
+minecraft/usercache.json
+minecraft/usernamecache.json
+minecraft/hotbar.nbt
+
+# 4. Local Game Data & Caches
+minecraft/logs/
+minecraft/crash-reports/
+minecraft/saves/
+minecraft/backups/
+minecraft/screenshots/
+
+# Hard Java crashes and Mixin outputs
+*.log
+hs_err_pid*
+minecraft/.mixin.out/
+minecraft/cache/
+
+# 5. Mod-Specific Local Data
+minecraft/essential/
+
+# Create Mod blueprints.
+minecraft/schematics/
+
+# Modern Forge often uses this folder for non-synced client data
+minecraft/local/
+
+# Client-side map data 
+minecraft/journeymap/
+minecraft/xaerominimap/
+minecraft/xaeroworldmap/
+
+# 6. Optional Cosmetics
+minecraft/resourcepacks/
+minecraft/shaderpacks/
+
+# 7. Text Editors & IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 8. Advanced Modding Edge Cases
+minecraft/kubejs/.probe/
+
+# Realms and multiplayer ping caches
+minecraft/realms_persistence.json
+minecraft/server-resource-packs/
