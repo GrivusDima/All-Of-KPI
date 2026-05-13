@@ -1,0 +1,18 @@
+filename = 'RapidLeafDecay-1.21.1-3.0.1.jar'
+name = 'Rapid Leaf Decay'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-3.0.1'
+
+[download]
+hash = '2259dfcc3a3e04817bf7f9e9c636c5c0553676ecc0c81e89372b617d41202f3b163a13ea0af7ba1249cf02f0208c1ef48f5c83651cb9aa6b8adcbfcb592a9c62'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jSQXzmcf/versions/5jGrYR7B/RapidLeafDecay-1.21.1-3.0.1.jar'
+
+[update.modrinth]
+mod-id = 'jSQXzmcf'
+version = '5jGrYR7B'

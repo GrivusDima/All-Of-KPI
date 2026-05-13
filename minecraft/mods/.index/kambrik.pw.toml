@@ -1,0 +1,33 @@
+filename = 'kambrik-neoforge-8.0.0-beta.2.jar'
+name = 'Kambrik'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '8.0.0-beta.2'
+
+[download]
+hash = 'c110728232ca6eb63df43c404cc1e9c6c4e1ba22f266de71faa665a2a07efaef2941fae13117a496782747ae3f84b1706fb017a860cc0ff7876077d4f0d91984'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zfbCkvdZ/versions/rCSmCZpX/kambrik-neoforge-8.0.0-beta.2.jar'
+
+[update.modrinth]
+mod-id = 'zfbCkvdZ'
+version = 'rCSmCZpX'

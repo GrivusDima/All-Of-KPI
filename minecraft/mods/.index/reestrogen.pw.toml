@@ -1,0 +1,18 @@
+filename = 'reestrogen-2.9.3-neoforge-1.21.1.jar'
+name = 'ReEstrogen'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.9.3'
+
+[download]
+hash = 'c0b3e2a3c7cfbebb2ffa1dd90e89c73f001e302f7b9b33a44f95d2b97bae4987fc53ca71fa4bbd1cd482dbcfb99b3ea08336f1a671ae6c003a0e94e7d50f3068'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BGUYUAbf/versions/eftUWF1p/reestrogen-2.9.3-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'BGUYUAbf'
+version = 'eftUWF1p'

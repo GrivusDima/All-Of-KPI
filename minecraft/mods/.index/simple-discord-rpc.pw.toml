@@ -1,0 +1,39 @@
+filename = 'SimpleRPC-4.1.0+hotfix.1.jar'
+name = 'Simple Discord RPC'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.18.2',
+    '1.19.2',
+    '1.20',
+    '1.20.1',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.1.0+hotfix.1'
+
+[download]
+hash = '847ff6f1ae7a27279a7dc10362c47d79a6c4018cd5677a4b6f7f29149fec17ac980dd21374448cb21a988797f865b0d17043dfa59910620e913fc91d0f5f2967'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ObXSoyrn/versions/lLHXLt53/SimpleRPC-4.1.0%2Bhotfix.1.jar'
+
+[update.modrinth]
+mod-id = 'ObXSoyrn'
+version = 'lLHXLt53'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Nn8Wasaq'
+type = 'REQUIRED'

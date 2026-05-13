@@ -1,0 +1,18 @@
+filename = 'WaystonesTeleportPets-1.2-neoforge-1.21.1.jar'
+name = 'Waystones Teleport Pets'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2-neoforge-1.21.1'
+
+[download]
+hash = '47a184ee443116799fb2490d8d6b462b21e23f31db04c31b25196f7e1389efbf53e7a0f89ba2c09929c05fd9d0b9619de7b1b90f87cc1221a2d548c2b4bcd6a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VaCl9OtG/versions/xWlyBWBZ/WaystonesTeleportPets-1.2-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'VaCl9OtG'
+version = 'xWlyBWBZ'

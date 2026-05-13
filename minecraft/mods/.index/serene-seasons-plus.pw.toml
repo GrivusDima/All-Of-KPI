@@ -1,0 +1,33 @@
+filename = 'NeoForge-Version-Serene Seasons Plus-1.21.1-4.2.3.jar'
+name = 'Serene Seasons Plus'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'NeoForge-1.21.1-4.2.3'
+
+[download]
+hash = '02273b48ff4180c379257b3cf48070a067949928de69c220178ef07f9760d5e9101a7e29a78ddc9289e8070ee3229bce63df4a3a9bef117bd1f6e16f70f7b009'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4Al4H3t9/versions/QiOlBGcz/NeoForge-Version-Serene Seasons Plus-1.21.1-4.2.3.jar'
+
+[update.modrinth]
+mod-id = '4Al4H3t9'
+version = 'QiOlBGcz'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0bNACJD'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'N8aGZtvj'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qIWoLcKJ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tPLE214j'
+type = 'REQUIRED'

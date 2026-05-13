@@ -1,0 +1,18 @@
+filename = 'bountiful-neoforge-8.0.0-beta.2.jar'
+name = 'Bountiful'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '8.0.0-beta.2'
+
+[download]
+hash = 'a30c55813348a1f1f2869996e627f7357b9a47de478c477ef02b767d36a33f4ffad8836c60974146d4c6be3e75e42eba9285a84ad95e544c6f0549a12ceb08fb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BpwWFOVM/versions/swTb6NU9/bountiful-neoforge-8.0.0-beta.2.jar'
+
+[update.modrinth]
+mod-id = 'BpwWFOVM'
+version = 'swTb6NU9'

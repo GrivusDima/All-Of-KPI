@@ -1,0 +1,21 @@
+filename = 'createbionics-1.0.5b.jar'
+name = 'Create: Bionics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.5b'
+
+[download]
+hash = '08c7d22267b89f44490eec4d8dfef74ddafe1cecfbbbf8b3b4605259ed32213e1da5ab7ad10c213d697cfa5cb2c2c5644e39bfb4e39f6bb6b183042518a954f1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lCwu0vBo/versions/CQ4S177k/createbionics-1.0.5b.jar'
+
+[update.modrinth]
+mod-id = 'lCwu0vBo'
+version = 'CQ4S177k'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

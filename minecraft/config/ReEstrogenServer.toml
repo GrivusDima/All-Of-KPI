@@ -1,0 +1,9 @@
+[dashing]
+	#Allows the player to use the Dash ability.
+	enabledashing = true
+	#Number of ticks to cooldown Dash ability.
+	dashingcooldown = 20.0
+
+[ringof_dreams]
+	#Allows the player to fly when the Ring of Dreams is equipped.
+	ringofdreamsflight = true

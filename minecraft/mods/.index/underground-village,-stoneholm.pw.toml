@@ -1,0 +1,21 @@
+filename = 'underground_village-neoforge-1.21.1-1.5.7.jar'
+name = 'Underground Village, Stoneholm'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.7'
+
+[download]
+hash = '9f7210518114e290de5f0c4195bc04dff4a95501d4d96c51117fdaf849670a5bb387124ac59bda96f5a5d509e50cc662d664d5066c8f670b1f54ff13915c36b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KmyhssPl/versions/LJOhYsvf/underground_village-neoforge-1.21.1-1.5.7.jar'
+
+[update.modrinth]
+mod-id = 'KmyhssPl'
+version = 'LJOhYsvf'
+
+[[x-prismlauncher-dependencies]]
+addonId = '2x0ULgTj'
+type = 'REQUIRED'

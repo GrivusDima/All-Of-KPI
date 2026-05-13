@@ -1,0 +1,27 @@
+{
+  "values": [
+    "supplementaries:way_sign_acacia",
+    "supplementaries:quark/way_sign_ancient",
+    "supplementaries:quark/way_sign_azalea",
+    "supplementaries:way_sign_bamboo",
+    "supplementaries:way_sign_birch",
+    "supplementaries:quark/way_sign_blossom",
+    "supplementaries:way_sign_cherry",
+    "supplementaries:cataclysm/way_sign_chorus",
+    "supplementaries:deep_aether/way_sign_conberry",
+    "supplementaries:way_sign_crimson",
+    "supplementaries:deep_aether/way_sign_cruderoot",
+    "supplementaries:way_sign_dark_oak",
+    "supplementaries:way_sign_jungle",
+    "supplementaries:way_sign_mangrove",
+    "supplementaries:way_sign_oak",
+    "supplementaries:alexscaves/way_sign_pewen",
+    "supplementaries:deep_aether/way_sign_roseroot",
+    "supplementaries:aether/way_sign_skyroot",
+    "supplementaries:way_sign_spruce",
+    "supplementaries:deep_aether/way_sign_sunroot",
+    "supplementaries:alexscaves/way_sign_thornwood",
+    "supplementaries:way_sign_warped",
+    "supplementaries:deep_aether/way_sign_yagroot"
+  ]
+}

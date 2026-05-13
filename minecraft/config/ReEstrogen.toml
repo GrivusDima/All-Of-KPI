@@ -1,0 +1,31 @@
+[player_model_effects]
+	#Toggles the breast model when Estradiol is taken.
+	displayfemmodel = true
+
+	[player_model_effects.custom_positioning]
+		#Toggles custom positioning of breast model.
+		custompositioning = false
+		#X custom positioning of breast model.
+		xposition = 0.0
+		#Y custom positioning of breast model.
+		yposition = 0.0
+		#Z custom positioning of breast model.
+		zposition = 0.0
+
+	[player_model_effects.custom_scaling]
+		#Toggles custom scaling of breast model.
+		customscaling = false
+		#Custom scaling of breast model.
+		scale = 1.0
+
+[dashing]
+	#Toggles the dash cooldown overlay.
+	dashoverlay = true
+	#Toggles the glowing effect from dashing.
+	glowingdash = true
+
+[ringof_dreams]
+	#Toggles the wings rendered on the player's back.
+	showwings = true
+	#Toggles the glowing effect from the Ring of Dreams.
+	glowing = true

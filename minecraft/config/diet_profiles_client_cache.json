@@ -1,0 +1,2397 @@
+{
+  "version": "1.1",
+  "mod_list_hash": "139489629",
+  "calculated_at": 1778640228917,
+  "profiles": {
+    "farmersdelight:bacon": {
+      "protein": 1.5600001
+    },
+    "quark:cooked_crab_leg": {
+      "protein": 4.8
+    },
+    "alexscaves:rock_candy_pink": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "reestrogen:spironolactone": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "aquaculture:bayad": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "minersdelight:bat_cookie": {
+      "grain": 2.28
+    },
+    "alexscaves:sweetish_fish_yellow": {
+      "protein": 1.2
+    },
+    "alexscaves:small_peppermint": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 5.8,
+      "water": 1.0
+    },
+    "farmersdelight:fish_stew": {
+      "protein": 9.36
+    },
+    "minersdelight:insect_wrap": {
+      "grain": 4.32,
+      "protein": 2.88,
+      "vegetable": 3.1200001,
+      "fruit": 1.44,
+      "sugar": 1.32,
+      "water": 1.0
+    },
+    "aethersdelight:blue_berry_muffin": {
+      "fruit": 8.160001,
+      "sugar": 1.6500001
+    },
+    "alexscaves:gumball_pile": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "farmersdelight:mutton_chops": {
+      "protein": 0.78000003
+    },
+    "minersdelight:bat_soup": {
+      "water": 1.1
+    },
+    "minecraft:cooked_rabbit": {
+      "protein": 3.0
+    },
+    "aethersdelight:gingerbread_moa": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "alexscaves:deep_sea_sushi_roll": {
+      "grain": 2.8
+    },
+    "reestrogen:gender_fluid_bottle": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "farmersdelight:beef_patty": {
+      "protein": 3.1200001
+    },
+    "minersdelight:crunchy_bar": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "minersdelight:baked_tentacles": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "farmersdelight:cooked_salmon_slice": {
+      "protein": 2.34
+    },
+    "alexscaves:rock_candy_brown": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "minersdelight:cave_soup": {
+      "water": 1.1
+    },
+    "alexscaves:cooked_trilocaris_tail": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "reestrogen:spironolactone_cookie": {
+      "grain": 2.4
+    },
+    "minecraft:dried_kelp": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 5.2,
+      "water": 1.0
+    },
+    "aethersdelight:gingerbread_star_base": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "farmersdelight:pasta_with_meatballs": {
+      "grain": 5.76
+    },
+    "minecraft:beetroot_soup": {
+      "water": 1.1
+    },
+    "minecraft:rabbit": {
+      "protein": 1.8000001
+    },
+    "aquaculturedelight:rollmops": {
+      "grain": 3.9600003,
+      "protein": 2.64,
+      "vegetable": 2.86,
+      "fruit": 1.32,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "alexscaves:gingerbread_door": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "aquaculture:pacific_halibut": {
+      "protein": 1.8000001
+    },
+    "minecraft:cooked_cod": {
+      "protein": 3.0
+    },
+    "aquaculture:perch": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "aethersdelight:gingerbread_moa_base": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "aquaculture:atlantic_cod": {
+      "protein": 1.8000001
+    },
+    "farmersdelight:melon_popsicle": {
+      "fruit": 2.808,
+      "sugar": 5.8300004
+    },
+    "minecraft:beef": {
+      "protein": 1.8000001
+    },
+    "aquaculture:fish_fillet_raw": {
+      "protein": 0.6
+    },
+    "aethersdelight:gingerbread_dough": {
+      "grain": 3.2400002
+    },
+    "minecraft:cooked_porkchop": {
+      "grain": 2.4,
+      "protein": 1.6,
+      "vegetable": 1.6,
+      "fruit": 0.8,
+      "sugar": 0.8,
+      "water": 1.0
+    },
+    "farmersdelight:baked_cod_stew": {
+      "protein": 10.92
+    },
+    "farmersdelight:pumpkin_slice": {
+      "vegetable": 6.2999997
+    },
+    "reestrogen:testosterone_fluid_bottle": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "stellaris:moon_berries": {
+      "fruit": 1.12,
+      "sugar": 3.4
+    },
+    "minecraft:salmon": {
+      "protein": 1.2
+    },
+    "alexscaves:seething_stew": {
+      "water": 1.1
+    },
+    "minecraft:golden_apple": {
+      "fruit": 9.280001,
+      "sugar": 1.2
+    },
+    "alexscaves:gingerbread_brick_stairs": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "stellaris:cosmo_bread": {
+      "grain": 1.6
+    },
+    "aquaculture:fish_fillet_cooked": {
+      "protein": 1.8000001
+    },
+    "aquaculture:piranha": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "alexscaves:slam": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "farmersdelight:apple_pie_slice": {
+      "fruit": 3.432,
+      "sugar": 7.1500006
+    },
+    "farmersdelight:tomato": {
+      "vegetable": 2.1
+    },
+    "alexscaves:sweetish_fish_red": {
+      "protein": 1.2
+    },
+    "alexscaves:rock_candy_purple": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "deep_aether:goldenleaf_berries": {
+      "fruit": 1.68,
+      "sugar": 4.1
+    },
+    "minersdelight:noodle_soup_cup": {
+      "grain": 3.3600001
+    },
+    "aethersdelight:candied_white_apple": {
+      "fruit": 1.3440001,
+      "sugar": 3.7400002
+    },
+    "stellaris:cosmo_coffee": {
+      "water": 1.1
+    },
+    "farmersdelight:steak_and_potatoes": {
+      "protein": 9.36
+    },
+    "aquaculturedelight:unusual_fish_soup": {
+      "protein": 7.9200006
+    },
+    "aquaculture:capitaine": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "alexscaves:candy_cane_block": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "aquaculture:sushi": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 0.4,
+      "water": 1.0
+    },
+    "create:builders_tea": {
+      "sugar": 4.4,
+      "water": 1.6
+    },
+    "farmersdelight:salmon_slice": {
+      "protein": 0.78000003
+    },
+    "minecraft:tropical_fish": {
+      "protein": 0.6
+    },
+    "minersdelight:insect_stew_cup": {
+      "water": 1.1
+    },
+    "minecraft:baked_potato": {
+      "vegetable": 7.5
+    },
+    "alexscaves:gingerbread_brick_wall": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:vesper_wing": {
+      "protein": 1.8000001
+    },
+    "aethersdelight:blue_berry_jam": {
+      "fruit": 4.2240005,
+      "sugar": 1.32
+    },
+    "deep_aether:cooked_quail": {
+      "protein": 3.6000001
+    },
+    "minecraft:cooked_salmon": {
+      "protein": 3.6000001
+    },
+    "alexscaves:sundae": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.4,
+      "fruit": 1.2,
+      "sugar": 1.2,
+      "water": 1.0
+    },
+    "aquaculture:brown_trout": {
+      "protein": 1.2
+    },
+    "farmersdelight:cake_slice": {
+      "grain": 2.76
+    },
+    "alexscaves:gingerbread_slab": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:sweetish_fish_pink": {
+      "protein": 1.2
+    },
+    "farmersdelight:roasted_mutton_chops": {
+      "protein": 10.92
+    },
+    "alexscaves:frosted_gingerbread_stairs": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "minecraft:suspicious_stew": {
+      "water": 1.6
+    },
+    "farmersdelight:chocolate_pie_slice": {
+      "sugar": 6.1600003,
+      "water": 1.1
+    },
+    "alexscaves:cookie_block": {
+      "grain": 2.3
+    },
+    "minersdelight:vegan_wrap": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "farmersdelight:hamburger": {
+      "grain": 3.9600003,
+      "protein": 2.86,
+      "vegetable": 3.08,
+      "fruit": 1.43,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "farmersdelight:onion": {
+      "vegetable": 4.2
+    },
+    "aether:blue_berry": {
+      "fruit": 1.7600001,
+      "sugar": 5.0
+    },
+    "aethersdelight:ginger_soup": {
+      "vegetable": 15.599999
+    },
+    "alexscaves:wafer_cookie_slab": {
+      "grain": 1.9
+    },
+    "aethersdelight:moa_stew": {
+      "water": 1.1
+    },
+    "aquaculturedelight:fried_perch_roll": {
+      "grain": 3.3600001
+    },
+    "minersdelight:baked_spider_leg": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "aethersdelight:ginger": {
+      "vegetable": 5.85
+    },
+    "farmersdelight:honey_cookie": {
+      "grain": 2.76
+    },
+    "alexscaves:gelatin_pink": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.0,
+      "water": 1.0
+    },
+    "solonion:lunchbox": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "farmersdelight:bacon_and_eggs": {
+      "protein": 7.7999997
+    },
+    "alexscaves:sweet_puff": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "aquaculture:pink_salmon": {
+      "protein": 1.2
+    },
+    "aquaculture:pollock": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:peppermint_powder": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "minecraft:glow_berries": {
+      "fruit": 1.12,
+      "sugar": 3.4
+    },
+    "minecraft:bread": {
+      "grain": 2.0
+    },
+    "aethersdelight:cooked_moa": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "alexscaves:sugar_glass": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "minecraft:mutton": {
+      "protein": 1.2
+    },
+    "minecraft:ominous_bottle": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "dndesires:glowberry_milkshake": {
+      "water": 1.6
+    },
+    "aethersdelight:peppermint_candy_dough": {
+      "grain": 3.72
+    },
+    "alexscaves:rock_candy_gray": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "deep_aether:purple_squash_slice": {
+      "vegetable": 3.0
+    },
+    "alexscaves:darkened_apple": {
+      "fruit": 3.8400002,
+      "sugar": 1.2
+    },
+    "minersdelight:beetroot_soup_cup": {
+      "water": 1.1
+    },
+    "aethersdelight:roast_moa": {
+      "grain": 4.6800003,
+      "protein": 3.1200004,
+      "vegetable": 3.38,
+      "fruit": 1.5600002,
+      "sugar": 1.4300001,
+      "water": 1.0
+    },
+    "create:bar_of_chocolate": {
+      "water": 1.1
+    },
+    "minersdelight:plate_of_fake_meatloaf": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "minersdelight:tentacles": {
+      "grain": 0.36,
+      "protein": 0.24000001,
+      "vegetable": 0.26,
+      "fruit": 0.120000005,
+      "sugar": 4.62,
+      "water": 1.0
+    },
+    "cataclysm:blessed_amethyst_crab_meat": {
+      "protein": 3.6000001
+    },
+    "alexscaves:block_of_frosted_chocolate": {
+      "sugar": 2.8,
+      "water": 1.1
+    },
+    "aquaculture:muskellunge": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "farmersdelight:cooked_rice": {
+      "grain": 2.88
+    },
+    "minersdelight:vegetable_soup_cup": {
+      "water": 1.1
+    },
+    "alexscaves:caramel": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "artifacts:eternal_steak": {
+      "protein": 4.8
+    },
+    "farmersdelight:gleaming_salad": {
+      "vegetable": 29.4
+    },
+    "minecraft:cod": {
+      "protein": 1.2
+    },
+    "alexscaves:sweetberry_ice_cream": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 7.2,
+      "water": 1.0
+    },
+    "minecraft:melon_slice": {
+      "fruit": 1.7600001,
+      "sugar": 5.0
+    },
+    "alexscaves:rock_candy_green": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:gingerbread_crumbs": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "aquaculturedelight:tuna_spaghetti": {
+      "protein": 9.360001
+    },
+    "aethersdelight:swet_soup": {
+      "water": 1.1
+    },
+    "minersdelight:cooked_arthropod": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.3,
+      "fruit": 0.6,
+      "sugar": 7.7000003,
+      "water": 1.0
+    },
+    "alexscaves:rock_candy_yellow": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "minersdelight:cave_soup_cup": {
+      "water": 1.1
+    },
+    "aethersdelight:peppermint_leaf": {
+      "grain": 0.36,
+      "protein": 0.24000001,
+      "vegetable": 0.26,
+      "fruit": 0.120000005,
+      "sugar": 4.84,
+      "water": 1.0
+    },
+    "minecraft:chicken": {
+      "protein": 1.2
+    },
+    "minersdelight:nutritional_bar": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "aethersdelight:peppermint_tea": {
+      "sugar": 2.2,
+      "water": 1.6
+    },
+    "cold_sweat:soul_sprout": {
+      "vegetable": 4.5
+    },
+    "deep_aether:green_squash_slice": {
+      "vegetable": 3.0
+    },
+    "reestrogen:progesterone_cookie": {
+      "grain": 2.4
+    },
+    "farmersdelight:pumpkin_pie_slice": {
+      "vegetable": 6.2999997
+    },
+    "farmersdelight:chicken_soup": {
+      "protein": 10.92
+    },
+    "farmersdelight:tomato_sauce": {
+      "vegetable": 8.4
+    },
+    "reestrogen:estrodial_fluid_bottle": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "minecraft:cooked_chicken": {
+      "protein": 3.6000001
+    },
+    "minecraft:mushroom_stew": {
+      "vegetable": 9.0
+    },
+    "aethersdelight:cooked_wing": {
+      "protein": 4.32
+    },
+    "aether:gingerbread_man": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "alexscaves:licoroot_sprout": {
+      "vegetable": 1.5
+    },
+    "alexscaves:chocolate_ice_cream": {
+      "sugar": 5.2,
+      "water": 1.1
+    },
+    "aethersdelight:enchanted_berry_muffin": {
+      "fruit": 20.160002,
+      "sugar": 3.3000002
+    },
+    "farmersdelight:mutton_wrap": {
+      "protein": 7.7999997
+    },
+    "minersdelight:squid_sandwich": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "farmersdelight:squid_ink_pasta": {
+      "grain": 6.7200003
+    },
+    "minersdelight:bat_rolls": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "aquaculturedelight:halaszle": {
+      "grain": 3.9600003,
+      "protein": 2.64,
+      "vegetable": 2.86,
+      "fruit": 1.32,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "alexscaves:jelly_bean": {
+      "vegetable": 1.5
+    },
+    "aether:golden_gummy_swet": {
+      "grain": 6.0,
+      "protein": 4.0,
+      "vegetable": 4.0,
+      "fruit": 2.0,
+      "sugar": 2.0,
+      "water": 1.0
+    },
+    "alexscaves:cake_layer": {
+      "grain": 1.9
+    },
+    "reestrogen:rainbow_sprinkles": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "farmersdelight:grilled_salmon": {
+      "protein": 10.92
+    },
+    "alexscaves:rock_candy_black": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:biome_treat": {
+      "grain": 6.0,
+      "protein": 4.0,
+      "vegetable": 4.0,
+      "fruit": 2.0,
+      "sugar": 2.0,
+      "water": 1.0
+    },
+    "minersdelight:insect_sandwich": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "alexscaves:chiseled_candy_cane_block": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:rock_candy_light_gray": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "minecraft:honey_bottle": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.2,
+      "fruit": 0.6,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "farmersdelight:glow_berry_custard": {
+      "fruit": 12.376,
+      "sugar": 2.3100002
+    },
+    "alexscaves:block_of_polished_chocolate": {
+      "sugar": 2.8,
+      "water": 1.1
+    },
+    "aquaculture:bluegill": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "alexscaves:block_of_chocolate": {
+      "sugar": 2.8,
+      "water": 1.1
+    },
+    "minecraft:sweet_berries": {
+      "fruit": 1.12,
+      "sugar": 3.4
+    },
+    "aether:enchanted_berry": {
+      "fruit": 10.080001,
+      "sugar": 1.8000001
+    },
+    "alexscaves:gummy_ring_yellow": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 5.8,
+      "water": 1.0
+    },
+    "alexscaves:tripodfish": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "minersdelight:silverfish_eggs": {
+      "grain": 0.36,
+      "protein": 0.24000001,
+      "vegetable": 0.26,
+      "fruit": 0.120000005,
+      "sugar": 4.62,
+      "water": 1.0
+    },
+    "minersdelight:chicken_soup_cup": {
+      "protein": 5.0400004
+    },
+    "aquaculturedelight:bass_stew": {
+      "water": 1.1
+    },
+    "farmersdelight:barbecue_stick": {
+      "grain": 2.88,
+      "protein": 2.08,
+      "vegetable": 2.24,
+      "fruit": 1.04,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "alexscaves:stripped_candy_cane_block": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:trilocaris_tail": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "farmersdelight:stuffed_potato": {
+      "vegetable": 21.0
+    },
+    "artifacts:everlasting_beef": {
+      "protein": 1.8000001
+    },
+    "alexscaves:gummy_ring_red": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 5.8,
+      "water": 1.0
+    },
+    "alexscaves:candy_cane": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "reestrogen:estrodial_cookie": {
+      "grain": 2.4
+    },
+    "reestrogen:estrodial": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "minersdelight:bone_broth_cup": {
+      "water": 1.1
+    },
+    "reestrogen:testosterone_pill": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "dndesires:vanilla_milkshake": {
+      "water": 1.6
+    },
+    "minecraft:cookie": {
+      "grain": 2.3
+    },
+    "aquaculture:atlantic_herring": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "alexscaves:frosted_gingerbread_brick_stairs": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "artifacts:onion_ring": {
+      "vegetable": 3.0
+    },
+    "minersdelight:vegan_steak_and_potatoes": {
+      "protein": 8.64
+    },
+    "supplementaries:lumisene_bottle": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "minecraft:potato": {
+      "vegetable": 1.5
+    },
+    "aquaculturedelight:poor_fisher_chowder": {
+      "water": 1.1
+    },
+    "alexscaves:gummy_ring_pink": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 5.8,
+      "water": 1.0
+    },
+    "dndesires:pumpkin_milkshake": {
+      "vegetable": 18.0
+    },
+    "minersdelight:tentacles_on_a_stick": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 7.92,
+      "water": 1.0
+    },
+    "alexscaves:radgill": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "minecraft:poisonous_potato": {
+      "vegetable": 3.0
+    },
+    "alexscaves:candy_cane_pole": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:chicken_cuts": {
+      "protein": 0.78000003
+    },
+    "alexscaves:frosted_gingerbread_door": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "aquaculturedelight:crispy_fried_perch": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 0.33,
+      "water": 1.0
+    },
+    "aquaculture:tuna": {
+      "protein": 1.8000001
+    },
+    "aquaculture:catfish": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "deep_aether:enchanted_antidote": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "stellaris:mars_fruit": {
+      "fruit": 4.0800004,
+      "sugar": 0.90000004
+    },
+    "alexscaves:gelatin_blue": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.0,
+      "water": 1.0
+    },
+    "alexscaves:frosted_gingerbread_brick_slab": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "aquaculture:algae": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "minecraft:rabbit_stew": {
+      "protein": 6.0
+    },
+    "aethersdelight:raw_moa_cuts": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "alexscaves:wafer_cookie_block": {
+      "grain": 2.3
+    },
+    "alexscaves:large_peppermint": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 7.0,
+      "water": 1.0
+    },
+    "alexscaves:frostmint": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 5.2,
+      "water": 1.0
+    },
+    "aquaculture:red_grouper": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:cooked_lanternfish": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "alexscaves:stinky_fish": {
+      "protein": 0.6
+    },
+    "farmersdelight:sweet_berry_cookie": {
+      "fruit": 1.456,
+      "sugar": 0.66
+    },
+    "aethersdelight:white_apple_pie_slice": {
+      "fruit": 4.992,
+      "sugar": 1.32
+    },
+    "quark:crab_leg": {
+      "protein": 0.6
+    },
+    "alexscaves:gummy_ring_green": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 5.8,
+      "water": 1.0
+    },
+    "farmersdelight:cabbage_rolls": {
+      "vegetable": 10.5
+    },
+    "alexscaves:lanternfish": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.7,
+      "water": 1.0
+    },
+    "farmersdelight:egg_sandwich": {
+      "grain": 2.88,
+      "protein": 2.08,
+      "vegetable": 2.24,
+      "fruit": 1.04,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "farmersdelight:sweet_berry_cheesecake_slice": {
+      "fruit": 3.432,
+      "sugar": 7.1500006
+    },
+    "farmersdelight:mushroom_rice": {
+      "vegetable": 25.199999
+    },
+    "minersdelight:bat_wing": {
+      "protein": 0.72
+    },
+    "minersdelight:beef_stew_cup": {
+      "protein": 4.32
+    },
+    "alexscaves:sweetish_fish_blue": {
+      "protein": 1.2
+    },
+    "alexscaves:purple_soda_bottle": {
+      "sugar": 2.8,
+      "water": 1.1
+    },
+    "aethersdelight:aechor_ice_cream": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.3,
+      "fruit": 0.6,
+      "sugar": 0.55,
+      "water": 1.0
+    },
+    "minecraft:enchanted_golden_apple": {
+      "fruit": 9.280001,
+      "sugar": 1.2
+    },
+    "minecraft:porkchop": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 1.0
+    },
+    "alexscaves:gingerbread_stairs": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:gingerbread_wall": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "minersdelight:improvised_barbecue_stick": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "stellaris:moon_fruit": {
+      "fruit": 4.0800004,
+      "sugar": 0.90000004
+    },
+    "farmersdelight:smoked_ham": {
+      "protein": 7.7999997
+    },
+    "minersdelight:pumpkin_soup_cup": {
+      "vegetable": 13.65
+    },
+    "farmersdelight:mixed_salad": {
+      "vegetable": 12.599999
+    },
+    "solonion:lunchbag": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "alexscaves:frosted_gingerbread_brick_wall": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:gelatin_red": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.0,
+      "water": 1.0
+    },
+    "farmersdelight:onion_soup": {
+      "vegetable": 25.199999
+    },
+    "aquaculture:atlantic_halibut": {
+      "protein": 1.8000001
+    },
+    "aquaculturedelight:crispy_nori_kelp": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "minecraft:beetroot": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "deep_aether:raw_quail": {
+      "protein": 1.2
+    },
+    "aquaculturedelight:halibut_with_tartar_sauce": {
+      "protein": 10.080001
+    },
+    "alexscaves:gingerbread_brick_slab": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "farmersdelight:honey_glazed_ham": {
+      "protein": 10.92
+    },
+    "minersdelight:arthropod": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 6.38,
+      "water": 1.0
+    },
+    "supplementaries:candy": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:sharpened_candy_cane": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:wafer_cookie_stairs": {
+      "grain": 1.9
+    },
+    "create:chocolate_glazed_berries": {
+      "fruit": 11.76,
+      "sugar": 2.1000001
+    },
+    "deep_aether:raw_aerglow_fish": {
+      "protein": 1.2
+    },
+    "minersdelight:seasoned_arthropods": {
+      "grain": 5.0400004,
+      "protein": 3.3600001,
+      "vegetable": 3.6399999,
+      "fruit": 1.6800001,
+      "sugar": 1.54,
+      "water": 1.0
+    },
+    "alexscaves:rock_candy_magenta": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:frosted_gingerbread_slab": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "farmersdelight:beef_stew": {
+      "protein": 9.36
+    },
+    "alexscaves:vesper_stew": {
+      "water": 1.6
+    },
+    "aquaculturedelight:fish_and_chips": {
+      "protein": 8.64
+    },
+    "alexscaves:stripped_candy_cane_pole": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "alexscaves:rock_candy_white": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:lollipop_bunch": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:nether_salad": {
+      "vegetable": 10.5
+    },
+    "aquaculture:turtle_soup": {
+      "water": 1.1
+    },
+    "minersdelight:cave_carrot": {
+      "vegetable": 5.85
+    },
+    "minersdelight:baked_squid": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "alexscaves:serene_salad": {
+      "vegetable": 7.5
+    },
+    "minecraft:golden_carrot": {
+      "vegetable": 9.0
+    },
+    "alexscaves:rock_candy_red": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "reestrogen:testosterone_cookie": {
+      "grain": 2.4
+    },
+    "minecraft:apple": {
+      "fruit": 3.5200002,
+      "sugar": 1.2
+    },
+    "aquaculture:rainbow_trout": {
+      "protein": 1.2
+    },
+    "aquaculturedelight:baked_pollock_with_carrots": {
+      "grain": 3.9600003,
+      "protein": 2.64,
+      "vegetable": 2.86,
+      "fruit": 1.32,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "alexscaves:pine_nuts": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 5.4,
+      "water": 1.0
+    },
+    "minecraft:spider_eye": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 0.2,
+      "water": 1.0
+    },
+    "alexscaves:block_of_chiseled_chocolate": {
+      "sugar": 2.8,
+      "water": 1.1
+    },
+    "aquaculture:tambaqui": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:gingerbarrel": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:sundrop": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 8.0,
+      "water": 1.0
+    },
+    "aquaculturedelight:cooked_small_turtle_meat": {
+      "protein": 2.16
+    },
+    "farmersdelight:bacon_sandwich": {
+      "protein": 7.7999997
+    },
+    "alexscaves:block_of_frosting": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:shepherds_pie": {
+      "grain": 5.0400004,
+      "protein": 3.6399999,
+      "vegetable": 3.9199998,
+      "fruit": 1.8199999,
+      "sugar": 1.54,
+      "water": 1.0
+    },
+    "minecraft:chorus_fruit": {
+      "fruit": 3.5200002,
+      "sugar": 1.2
+    },
+    "aquaculture:brown_shrooma": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "minersdelight:moss": {
+      "grain": 0.36,
+      "protein": 0.24000001,
+      "vegetable": 0.26,
+      "fruit": 0.120000005,
+      "sugar": 4.62,
+      "water": 1.0
+    },
+    "farmersdelight:fried_egg": {
+      "grain": 1.44,
+      "protein": 1.04,
+      "vegetable": 1.12,
+      "fruit": 0.52,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "minersdelight:baked_cod_stew_cup": {
+      "protein": 5.0400004
+    },
+    "aethersdelight:cooked_moa_cuts": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "minersdelight:squid": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 6.38,
+      "water": 1.0
+    },
+    "aethersdelight:parsnip": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "minecraft:cooked_mutton": {
+      "protein": 3.6000001
+    },
+    "aquaculture:red_shrooma": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:dumplings": {
+      "grain": 2.88,
+      "protein": 2.08,
+      "vegetable": 2.24,
+      "fruit": 1.04,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "minersdelight:pasta_with_veggieballs": {
+      "grain": 5.76
+    },
+    "farmersdelight:kelp_roll_slice": {
+      "grain": 2.88
+    },
+    "aquaculture:carp": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "cataclysm:amethyst_crab_meat": {
+      "protein": 3.6000001
+    },
+    "alexscaves:rock_candy_cyan": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "deep_aether:antidote": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "quark:ancient_fruit": {
+      "fruit": 3.5200002,
+      "sugar": 1.32
+    },
+    "farmersdelight:kelp_roll": {
+      "grain": 5.76
+    },
+    "create:sweet_roll": {
+      "grain": 2.4
+    },
+    "minersdelight:glow_ink_pasta": {
+      "grain": 6.7200003
+    },
+    "aquaculturedelight:buckling": {
+      "grain": 2.88,
+      "protein": 1.9200001,
+      "vegetable": 2.08,
+      "fruit": 0.96000004,
+      "sugar": 0.88000005,
+      "water": 1.0
+    },
+    "farmersdelight:raw_pasta": {
+      "grain": 2.76
+    },
+    "alexscaves:cooked_radgill": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "alexscaves:block_of_vanilla_frosting": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:fruit_salad": {
+      "fruit": 10.608001,
+      "sugar": 1.9800001
+    },
+    "farmersdelight:wheat_dough": {
+      "grain": 2.76
+    },
+    "alexscaves:dough_block": {
+      "grain": 2.3
+    },
+    "dndesires:chocolate_milkshake": {
+      "water": 1.6
+    },
+    "alexscaves:gummy_ring_blue": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 5.8,
+      "water": 1.0
+    },
+    "minersdelight:weird_caviar": {
+      "grain": 1.8000001,
+      "protein": 1.2,
+      "vegetable": 1.3,
+      "fruit": 0.6,
+      "sugar": 7.7000003,
+      "water": 1.0
+    },
+    "farmersdelight:vegetable_noodles": {
+      "grain": 5.0400004,
+      "protein": 3.6399999,
+      "vegetable": 3.9199998,
+      "fruit": 1.8199999,
+      "sugar": 1.54,
+      "water": 1.0
+    },
+    "minersdelight:copper_carrot": {
+      "vegetable": 5.85
+    },
+    "aether:white_apple": {
+      "sugar": 2.0
+    },
+    "cataclysm:lionfish": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "aquaculture:arapaima": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 6.4,
+      "water": 1.0
+    },
+    "aether:healing_stone": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "aquaculturedelight:raw_fish_fillet_roll": {
+      "protein": 5.0400004
+    },
+    "aethersdelight:leek": {
+      "vegetable": 3.8999999
+    },
+    "farmersdelight:cabbage_leaf": {
+      "vegetable": 2.1
+    },
+    "alexscaves:hot_chocolate_bottle": {
+      "sugar": 6.0,
+      "water": 1.1
+    },
+    "alexscaves:dinosaur_nugget": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.6000004,
+      "water": 1.0
+    },
+    "aethersdelight:raw_moa": {
+      "grain": 1.44,
+      "protein": 0.96000004,
+      "vegetable": 1.04,
+      "fruit": 0.48000002,
+      "sugar": 0.44000003,
+      "water": 1.0
+    },
+    "aquaculturedelight:fish_chorba": {
+      "protein": 9.360001
+    },
+    "minecraft:pumpkin_pie": {
+      "vegetable": 12.0
+    },
+    "farmersdelight:vegetable_soup": {
+      "water": 1.1
+    },
+    "alexscaves:giant_sweetberry": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 8.0,
+      "water": 1.0
+    },
+    "farmersdelight:noodle_soup": {
+      "grain": 6.7200003
+    },
+    "alexscaves:gelatin_yellow": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.0,
+      "water": 1.0
+    },
+    "minersdelight:cave_hamburger": {
+      "grain": 4.32,
+      "protein": 2.88,
+      "vegetable": 3.1200001,
+      "fruit": 1.44,
+      "sugar": 1.32,
+      "water": 1.0
+    },
+    "minersdelight:plate_of_glazed_arachnid_limbs": {
+      "grain": 4.32,
+      "protein": 2.88,
+      "vegetable": 3.1200001,
+      "fruit": 1.44,
+      "sugar": 1.32,
+      "water": 1.0
+    },
+    "farmersdelight:pumpkin_soup": {
+      "vegetable": 29.4
+    },
+    "alexscaves:frosted_gingerbread_block": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "alexscaves:cooked_mussel": {
+      "protein": 2.4
+    },
+    "farmersdelight:minced_beef": {
+      "protein": 1.5600001
+    },
+    "alexscaves:primordial_soup": {
+      "water": 1.1
+    },
+    "minecraft:cooked_beef": {
+      "protein": 4.8
+    },
+    "aethersdelight:gingerbread": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "minersdelight:smoked_bat_wing": {
+      "protein": 2.16
+    },
+    "reestrogen:rainbow_cake_slice": {
+      "grain": 3.2
+    },
+    "alexscaves:gingerbread_bricks": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "alexscaves:rock_candy_blue": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "aether:blue_gummy_swet": {
+      "grain": 6.0,
+      "protein": 4.0,
+      "vegetable": 4.0,
+      "fruit": 2.0,
+      "sugar": 2.0,
+      "water": 1.0
+    },
+    "aethersdelight:gingerbread_star": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "alexscaves:licoroot_vine": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:bone_broth": {
+      "water": 1.1
+    },
+    "minersdelight:vegan_hamburger": {
+      "grain": 3.9600003,
+      "protein": 2.64,
+      "vegetable": 2.86,
+      "fruit": 1.32,
+      "sugar": 1.21,
+      "water": 1.0
+    },
+    "farmersdelight:pie_crust": {
+      "grain": 0.72,
+      "protein": 0.52,
+      "vegetable": 0.56,
+      "fruit": 0.26,
+      "sugar": 6.16,
+      "water": 1.0
+    },
+    "alexscaves:block_of_chocolate_frosting": {
+      "sugar": 2.4,
+      "water": 1.1
+    },
+    "farmersdelight:ratatouille": {
+      "grain": 3.6000001,
+      "protein": 2.6,
+      "vegetable": 2.8,
+      "fruit": 1.3,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "aethersdelight:parsnip_pasta": {
+      "grain": 5.76
+    },
+    "farmersdelight:cod_slice": {
+      "protein": 0.78000003
+    },
+    "alexscaves:cooked_tripodfish": {
+      "grain": 1.5,
+      "protein": 1.0,
+      "vegetable": 1.0,
+      "fruit": 0.5,
+      "sugar": 0.5,
+      "water": 1.0
+    },
+    "farmersdelight:ham": {
+      "protein": 3.8999999
+    },
+    "aethersdelight:gingerbread_man_base": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 8.360001,
+      "water": 1.0
+    },
+    "alexscaves:sea_pig": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:wafer_cookie_wall": {
+      "grain": 1.9
+    },
+    "minersdelight:baked_cave_carrot": {
+      "vegetable": 9.75
+    },
+    "minersdelight:onion_soup_cup": {
+      "vegetable": 11.7
+    },
+    "farmersdelight:roast_chicken": {
+      "protein": 10.92
+    },
+    "stellaris:cheese": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 0.3,
+      "water": 1.0
+    },
+    "aquaculture:gar": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:licoroot": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 5.2,
+      "water": 1.0
+    },
+    "alexscaves:vanilla_ice_cream": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 7.2,
+      "water": 1.0
+    },
+    "aethersdelight:moa_egg_omelette": {
+      "grain": 4.32,
+      "protein": 2.88,
+      "vegetable": 3.1200001,
+      "fruit": 1.44,
+      "sugar": 1.32,
+      "water": 1.0
+    },
+    "aquaculture:synodontis": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "aethersdelight:wing": {
+      "protein": 2.16
+    },
+    "aquaculture:boulti": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "aquaculturedelight:catfish_barbecue": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "alexscaves:sweetish_fish_green": {
+      "protein": 1.2
+    },
+    "minersdelight:vegan_patty": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 6.38,
+      "water": 1.0
+    },
+    "aquaculturedelight:large_fish_with_vegetables": {
+      "protein": 9.360001
+    },
+    "farmersdelight:stuffed_pumpkin": {
+      "vegetable": 29.4
+    },
+    "reestrogen:progesterone_fluid_bottle": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "aquaculture:smallmouth_bass": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "farmersdelight:dog_food": {
+      "grain": 1.44,
+      "protein": 1.04,
+      "vegetable": 1.12,
+      "fruit": 0.52,
+      "sugar": 7.92,
+      "water": 1.0
+    },
+    "alexscaves:gelatin_green": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 7.0,
+      "water": 1.0
+    },
+    "aethersdelight:fried_moa_egg": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "aquaculturedelight:jellyfish_jelly": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "aquaculturedelight:turtle_meat_dish": {
+      "protein": 9.360001
+    },
+    "farmersdelight:cooked_cod_slice": {
+      "protein": 2.34
+    },
+    "minersdelight:insect_stew": {
+      "water": 1.1
+    },
+    "minersdelight:bowl_of_stuffed_squid": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "deep_aether:blue_squash_slice": {
+      "vegetable": 3.0
+    },
+    "minersdelight:bat_soup_cup": {
+      "water": 1.1
+    },
+    "farmersdelight:cod_roll": {
+      "protein": 5.46
+    },
+    "farmersdelight:cooked_bacon": {
+      "protein": 3.1200001
+    },
+    "alexscaves:rock_candy_light_blue": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "aether:candy_cane": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "aethersdelight:peppermint_candy": {
+      "grain": 0.72,
+      "protein": 0.48000002,
+      "vegetable": 0.52,
+      "fruit": 0.24000001,
+      "sugar": 5.28,
+      "water": 1.0
+    },
+    "aquaculturedelight:small_turtle_meat": {
+      "protein": 0.72
+    },
+    "reestrogen:rainbow_sprinkles_cookie": {
+      "grain": 3.6000001
+    },
+    "alexscaves:green_soylent": {
+      "grain": 0.90000004,
+      "protein": 0.6,
+      "vegetable": 0.6,
+      "fruit": 0.3,
+      "sugar": 0.3,
+      "water": 1.0
+    },
+    "alexscaves:rock_candy_lime": {
+      "fruit": 1.12,
+      "sugar": 3.4
+    },
+    "farmersdelight:cooked_mutton_chops": {
+      "protein": 2.34
+    },
+    "minersdelight:spider_leg": {
+      "grain": 2.16,
+      "protein": 1.44,
+      "vegetable": 1.5600001,
+      "fruit": 0.72,
+      "sugar": 0.66,
+      "water": 1.0
+    },
+    "farmersdelight:cabbage": {
+      "vegetable": 4.2
+    },
+    "aethersdelight:flying_beef_stew": {
+      "protein": 10.080001
+    },
+    "alexscaves:sprinkles": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "farmersdelight:fried_rice": {
+      "grain": 6.7200003
+    },
+    "solonion:golden_lunchbox": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "minersdelight:rabbit_stew_cup": {
+      "protein": 3.6000001
+    },
+    "minecraft:carrot": {
+      "vegetable": 4.5
+    },
+    "minersdelight:mushroom_stew_cup": {
+      "vegetable": 5.85
+    },
+    "aquaculture:blackfish": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:gingerbread_block": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "minecraft:pufferfish": {
+      "grain": 0.3,
+      "protein": 0.2,
+      "vegetable": 0.2,
+      "fruit": 0.1,
+      "sugar": 4.4,
+      "water": 1.0
+    },
+    "alexscaves:alex_meal": {
+      "grain": 12.0,
+      "protein": 8.0,
+      "vegetable": 8.0,
+      "fruit": 4.0,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "reestrogen:progesterone": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "minersdelight:glow_squid": {
+      "grain": 1.08,
+      "protein": 0.72,
+      "vegetable": 0.78000003,
+      "fruit": 0.36,
+      "sugar": 6.38,
+      "water": 1.0
+    },
+    "minersdelight:fish_stew_cup": {
+      "protein": 4.32
+    },
+    "alexscaves:frosted_gingerbread_wall": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "alexscaves:caramel_apple": {
+      "fruit": 4.32,
+      "sugar": 1.8000001
+    },
+    "aethersdelight:cooked_parsnip": {
+      "grain": 2.5200002,
+      "protein": 1.6800001,
+      "vegetable": 1.8199999,
+      "fruit": 0.84000003,
+      "sugar": 0.77,
+      "water": 1.0
+    },
+    "minersdelight:takoyaki": {
+      "grain": 4.32,
+      "protein": 2.88,
+      "vegetable": 3.1200001,
+      "fruit": 1.44,
+      "sugar": 1.32,
+      "water": 1.0
+    },
+    "farmersdelight:apple_cider": {
+      "sugar": 2.2
+    },
+    "supplementaries:soap": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "minecraft:rotten_flesh": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 5.6,
+      "water": 1.0
+    },
+    "reestrogen:spironolactone_fluid_bottle": {
+      "sugar": 4.0,
+      "water": 1.0
+    },
+    "farmersdelight:cooked_chicken_cuts": {
+      "protein": 2.34
+    },
+    "farmersdelight:pasta_with_mutton_chop": {
+      "protein": 9.36
+    },
+    "create:honeyed_apple": {
+      "fruit": 13.44,
+      "sugar": 2.4
+    },
+    "deep_aether:cooked_aerglow_fish": {
+      "protein": 3.0
+    },
+    "aethersdelight:enchanted_berry_jam": {
+      "fruit": 12.480001,
+      "sugar": 3.3000002
+    },
+    "dndesires:strawberry_milkshake": {
+      "fruit": 27.840002,
+      "sugar": 3.6000001
+    },
+    "minersdelight:golden_nutritional_bar": {
+      "grain": 3.6000001,
+      "protein": 2.4,
+      "vegetable": 2.6,
+      "fruit": 1.2,
+      "sugar": 1.1,
+      "water": 1.0
+    },
+    "alexscaves:spelunkie": {
+      "grain": 0.6,
+      "protein": 0.4,
+      "vegetable": 0.4,
+      "fruit": 0.2,
+      "sugar": 4.8,
+      "water": 1.0
+    },
+    "farmersdelight:chicken_sandwich": {
+      "protein": 7.7999997
+    },
+    "farmersdelight:salmon_roll": {
+      "protein": 5.46
+    },
+    "alexscaves:rock_candy_orange": {
+      "fruit": 1.12,
+      "sugar": 3.4
+    },
+    "alexscaves:frosted_gingerbread_bricks": {
+      "grain": 1.2,
+      "protein": 0.8,
+      "vegetable": 0.8,
+      "fruit": 0.4,
+      "sugar": 5.6,
+      "water": 1.0
+    }
+  }
+}

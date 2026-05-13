@@ -1,0 +1,21 @@
+filename = 'ShrapnelExplosionsMod-2.0.7.1-1.21.1.jar'
+name = 'Shrapnel Explosions'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.7.1'
+
+[download]
+hash = '2cdfe673f7581abe847dff69b669398756cb9f1161cbc00354174ca26533e8e7b1728ba0d06c80591d2df0ff314d9a50535640df0f4f55f138a94399b70f3305'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Lb1xb6ND/versions/cij0XUGx/ShrapnelExplosionsMod-2.0.7.1-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Lb1xb6ND'
+version = 'cij0XUGx'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

@@ -1,0 +1,29 @@
+filename = 'create_better_villagers-1.3.2.jar'
+name = 'Create: Better Villagers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.2'
+
+[download]
+hash = '3655f126663332ab96c2c18760bfed24f73a2419a6967352352078271953ad165227829b76180307675567a53f93a0af47c3dc29180a2321c8cb017ff4287bd1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kS90mr4y/versions/TXkrwOJQ/create_better_villagers-1.3.2.jar'
+
+[update.modrinth]
+mod-id = 'kS90mr4y'
+version = 'TXkrwOJQ'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KmyhssPl'
+type = 'REQUIRED'
