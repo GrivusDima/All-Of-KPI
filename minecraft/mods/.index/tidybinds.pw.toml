@@ -1,0 +1,18 @@
+filename = 'tidybinds-1.2.0.jar'
+name = 'Tidy Binds'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = '445779d16847c7e13debc13707b4b125bbf36162437ccbca21887c04df35dbd6b4187803c353860c3623affab7a2a643cb31ae8c48f0078f3a9b9d76d9a2d5b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IGVW2rb4/versions/6J8Po8Pz/tidybinds-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'IGVW2rb4'
+version = '6J8Po8Pz'

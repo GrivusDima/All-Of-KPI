@@ -17,7 +17,7 @@
   "retainDetailOnLowFps": true,
   "retainDetailOnLargerMobs": true,
   "animationFrameSkipDuringIrisShadowPass": true,
-  "preventFirstPersonHandAnimating": false,
+  "preventFirstPersonHandAnimating": true,
   "onlyClientPlayerModel": false,
   "doubleChestAnimFix": true,
   "enforceOptifineVariationRequiresDefaultModel": false,

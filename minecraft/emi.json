@@ -1,0 +1,18 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:tnt",
+    "item:quark:egg_parrot_red_blue",
+    "item:simplyswords:soulrender",
+    "item:reestrogen:gender_fluid_bottle",
+    "item:cataclysm:soul_render"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

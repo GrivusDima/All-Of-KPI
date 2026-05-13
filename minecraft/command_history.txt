@@ -1,0 +1,50 @@
+/chunky center 0 0
+/chunky radius 100
+/chunky confirm
+/chunky start
+/chunky radius 500
+/chunky start
+/gamemode spectator
+/chunky cancel
+/chunky confirm
+/gamemode survival
+/gamemode creative
+/summon minecraft:ender_dragon
+/gamemode survival
+/gamemode creative
+/kill
+/fill 228 84 -102
+/fill 228 84 -102 326 84 -102 tnt
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/kill @e
+/tp @e GrivusDima
+/tp @e ~ ~ ~-
+/tp @e ~ 100 ~
+/gamemode creative
+/time set noon
+/summon minecraft:ender_dragon
+/kill @s
+/kill @r
+/kill @p
+/kill @n
+/kill @e
+/summon cataclysm:the_harbinger
+/summon cataclysm:amethyst_crab
+/summon cataclysm:wither_howitzer
+/summon cataclysm:brontes
+/summon cataclysm:wadjet
+/summon minecraft:slime
+/summon minecraft:pig
+/summon minecraft:slime
+/summon minecraft:pig
+/summon minecraft:slime
+/summon minecraft:pig
+/kill @e
+/tp @e GrivusDima
+/kill @e
+/tp @e GrivusDima
+/summon aeronautics:gust
+/summon cataclysm:accretion
+/summon cataclysm:amethyst_crab

@@ -1,0 +1,25 @@
+filename = 'BetterTridents-v21.1.0-1.21.1-NeoForge.jar'
+name = 'Better Tridents'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v21.1.0-1.21.1-NeoForge'
+
+[download]
+hash = '2be3dbdadb6d2e71a4be9a4b96864af72fb9f358e9f6770e9a00565284d8aaa966f9d7a14917241234c340e7eadfb45603732d10c284b01325c749dd9d9fd629'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KNUSlHiU/versions/UVSMPjiS/BetterTridents-v21.1.0-1.21.1-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'KNUSlHiU'
+version = 'UVSMPjiS'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5WeWGLoJ'
+type = 'OPTIONAL'

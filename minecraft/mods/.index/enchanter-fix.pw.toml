@@ -1,0 +1,38 @@
+filename = 'enchanter_fix-1.8+mc1.20-1.21.11.jar'
+name = 'Enchanter Fix'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8'
+
+[download]
+hash = 'dda91e85a0256dd1d12e4e304da3b818cbb791c6011bcabf4eb3e2c447ab28d099f29ab3a4a0866515d39d5138f10c915c1a2a53b89baa3b9b93847d138d61c8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vNE5j3Te/versions/q98qlPBf/enchanter_fix-1.8%2Bmc1.20-1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'vNE5j3Te'
+version = 'q98qlPBf'

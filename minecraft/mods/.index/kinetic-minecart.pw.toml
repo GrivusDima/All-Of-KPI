@@ -1,0 +1,18 @@
+filename = 'kineticminecart-2.1.1+1.21.neoforge.patch.1.jar'
+name = 'Kinetic Minecart'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.1+1.21.neoforge.patch.1'
+
+[download]
+hash = 'cfc3b6100a7b49947e0544fd36180b075df59344d1fc7b07dfa89a360db3d9135693092a82597150b7dc6d0b790f1bc3c54a258567e74bfe91c0446dde559420'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KE68O6Jp/versions/KP6RIKwa/kineticminecart-2.1.1%2B1.21.neoforge.patch.1.jar'
+
+[update.modrinth]
+mod-id = 'KE68O6Jp'
+version = 'KP6RIKwa'

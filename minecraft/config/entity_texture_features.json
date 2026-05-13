@@ -33,7 +33,9 @@
   "entityEmissiveOverrides": {},
   "propertiesDisabled": [],
   "propertyInvertUpdatingOverrides": [],
-  "entityRandomOverrides": {},
+  "entityRandomOverrides": {
+    "entity.minecraft.cow": false
+  },
   "entityEmissiveBrightOverrides": {},
   "entityRenderLayerOverrides": {},
   "entityLightOverrides": {}

@@ -2,7 +2,7 @@
 	#The amount of shrapnel after the explosion. Higher = more lag.
 	# Default: 50
 	# Range: 0 ~ 1000
-	shrapnelCount = 50
+	shrapnelCount = 5
 	#The amount of shrapnel damage. (2 points = 1 heart)
 	# Default: 6.0
 	# Range: 1.0 ~ 10000.0
@@ -10,13 +10,13 @@
 
 	[Primary_Shrapnel_Settings.Primary_Shrapnel_Visual]
 		#Should shrapnel leave a smoke trail?
-		showTrail = false
+		showTrail = true
 		#Should shrapnel leave bullet holes?
-		showBulletHoles = true
+		showBulletHoles = false
 		#REALISTIC: 128x128 texture
 		#VANILLA: 16x16 texture
 		#Allowed Values: REALISTIC, VANILLA
-		bulletHoleTexture = "REALISTIC"
+		bulletHoleTexture = "VANILLA"
 		#Enable impact smoke?
 		showImpactSmoke = true
 		#Registry name of the particle to use for trails (e.g. minecraft:campfire_cosy_smoke).
@@ -45,19 +45,19 @@
 	#WARNING! Values above 100 can cause significant lag during large explosions!
 	# Default: 100
 	# Range: 1 ~ 2000
-	maxDebrisBlocks = 100
+	maxDebrisBlocks = 50
 	#The maximum number of debris allowed to rest on the ground simultaneously.
 	#When this limit is reached, the oldest resting debris will be removed to make room for new ones.
 	#This ensures fresh explosions always leave debris while preventing server lag from mass accumulation.
 	# Default: 150
 	# Range: 1 ~ 2000
-	maxStaticDebris = 150
+	maxStaticDebris = 50
 	#The maximum number of debris allowed to be in flight simultaneously.
 	#When this limit is reached, the oldest flying debris will be removed (vanish) to make room for new ones.
 	#This prevents server lag during massive chain explosions by prioritizing the most recent blast effects.
 	# Default: 250
 	# Range: 1 ~ 5000
-	maxFlyingDebris = 250
+	maxFlyingDebris = 100
 	#The number of block particles spawned by each flying debris every few ticks.
 	# Default: 5
 	# Range: 0 ~ 10

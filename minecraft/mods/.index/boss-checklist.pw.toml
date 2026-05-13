@@ -1,0 +1,18 @@
+filename = 'boss_checklist-neoforge-5.0.1.jar'
+name = 'Boss Checklist'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.0.1'
+
+[download]
+hash = 'b8234adc7639660742f80f2540c7a962f7735e6a47c2e3903835cbedf1735664514383152b58a9a1463ab4bf8a295cb3c879ddb2843915e9789949d2d60db56e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z1Dv56jq/versions/aiJ42LzA/boss_checklist-neoforge-5.0.1.jar'
+
+[update.modrinth]
+mod-id = 'z1Dv56jq'
+version = 'aiJ42LzA'
