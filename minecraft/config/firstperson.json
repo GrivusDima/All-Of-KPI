@@ -1,11 +1,11 @@
 {
   "configVersion": 2,
   "enabledByDefault": true,
-  "xOffset": 30,
-  "sneakXOffset": 30,
-  "sitXOffset": 30,
+  "xOffset": 25,
+  "sneakXOffset": 25,
+  "sitXOffset": 25,
   "renderStuckFeatures": true,
-  "vanillaHandsMode": "ALL",
+  "vanillaHandsMode": "OFF",
   "dynamicMode": true,
   "vanillaHandsSkipSwimming": true,
   "autoVanillaHands": [
@@ -21,10 +21,5 @@
   "autoToggleModItems": [
     "exposure:camera"
   ],
-  "hiddenLayers": [
-    "net.minecraft.client.renderer.entity.layers.CustomHeadLayer",
-    "net.minecraft.client.renderer.entity.layers.HumanoidArmorLayer",
-    "net.mehvahdjukaar.supplementaries.client.renderers.entities.funny.JarredHeadLayer",
-    "com.robocraft999.creategoggles.item.goggle.GoggleArmorLayer"
-  ]
+  "hiddenLayers": []
 }

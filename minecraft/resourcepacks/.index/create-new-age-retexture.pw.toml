@@ -1,0 +1,18 @@
+filename = 'Create New Age Retexture 0.2.1.zip'
+name = 'Create: New Age Retexture'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.1'
+
+[download]
+hash = 'e54e8c68d5d9100e2d48b01602a276bf31a84234eb6408e7ffc959bab68e774ee915b38bf714ce2534e5ad7f1ec3aefaa9c810f9b3b24a24afcff66246886660'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9fYTRFXX/versions/VCahLZcX/Create New Age Retexture 0.2.1.zip'
+
+[update.modrinth]
+mod-id = '9fYTRFXX'
+version = 'VCahLZcX'

@@ -1,61 +1,57 @@
-# 1. OS & System Junk
+# =========================================
+# 1. OS & Prism Launcher Settings
+# =========================================
 .DS_Store
 Thumbs.db
 Desktop.ini
-
-# 2. Launcher Settings (Keep local)
 instance.cfg
 
-# 3. Client-Specific Game Settings
+# =========================================
+# 2. Client-Specific Settings & UI States
+# =========================================
+# Prevents overwriting your friends' keybinds, bookmarks, and UI states.
 minecraft/options.txt
-minecraft/optionsof.txt
-minecraft/optionsshaders.txt
 minecraft/servers.dat
 minecraft/servers.dat_old
 minecraft/usercache.json
 minecraft/usernamecache.json
-minecraft/hotbar.nbt
+minecraft/command_history.txt
+minecraft/emi.json
+minecraft/ponders_watched.json
+minecraft/.qmenu_opened.marker
+minecraft/ETF_player_skin_printout.png
 
-# 4. Local Game Data & Caches
-minecraft/logs/
-minecraft/crash-reports/
+# =========================================
+# 3. Local Player Data & Maps
+# =========================================
+# World files, personal schematics, and map progress.
 minecraft/saves/
-minecraft/backups/
+minecraft/schematics/
+minecraft/journeymap/
+minecraft/.boss_checklist_data/
+
+# =========================================
+# 4. Mod Caches & Render Data
+# =========================================
+# These regenerate automatically and will severely bloat your GitHub repo.
+minecraft/Distant_Horizons_server_data/
+minecraft/.sable/
+minecraft/moonlight-global-datapacks/
+minecraft/dynamic-data-pack-cache/
+minecraft/dynamic-resource-pack-cache/
+minecraft/server-resource-packs/
+minecraft/downloads/
+minecraft/ntgl/
+minecraft/coremods/
+
+# =========================================
+# 5. Logs, Debugging & Media
+# =========================================
+minecraft/logs/
+minecraft/debug/
+minecraft/.mixin.out/
 minecraft/screenshots/
 
-# Hard Java crashes and Mixin outputs
+# Hard crashes / Java error logs
 *.log
 hs_err_pid*
-minecraft/.mixin.out/
-minecraft/cache/
-
-# 5. Mod-Specific Local Data
-minecraft/essential/
-
-# Create Mod blueprints.
-minecraft/schematics/
-
-# Modern Forge often uses this folder for non-synced client data
-minecraft/local/
-
-# Client-side map data 
-minecraft/journeymap/
-minecraft/xaerominimap/
-minecraft/xaeroworldmap/
-
-# 6. Optional Cosmetics
-minecraft/resourcepacks/
-minecraft/shaderpacks/
-
-# 7. Text Editors & IDEs
-.vscode/
-.idea/
-*.sublime-workspace
-*.sublime-project
-
-# 8. Advanced Modding Edge Cases
-minecraft/kubejs/.probe/
-
-# Realms and multiplayer ping caches
-minecraft/realms_persistence.json
-minecraft/server-resource-packs/

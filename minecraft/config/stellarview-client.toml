@@ -16,7 +16,7 @@
 			#Specifies the max distance at which a Space Region can render
 			# Default: 8
 			# Range: 1 ~ 12
-			space_region_render_distance = 8
+			space_region_render_distance = 12
 			#Enables gravitational lensing effects
 			gravitational_lensing = true
 			#Enables dust cloud rendering

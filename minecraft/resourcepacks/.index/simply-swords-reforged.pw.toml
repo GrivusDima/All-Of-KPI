@@ -1,0 +1,21 @@
+filename = 'Simply Swords Reforged v1.zip'
+name = 'Simply Swords Reforged'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1'
+
+[download]
+hash = '0e0560149cb0b02cb1f0ebd19ef9595b54cf2d3fabe2b017ac18d42583cf9b7d6cfe6d02d590219cb78fd39c5ec964bacc40a7891d9135e6dbed207effa60e8b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/abPebRRB/versions/Ykvp4dCv/Simply Swords Reforged v1.zip'
+
+[update.modrinth]
+mod-id = 'abPebRRB'
+version = 'Ykvp4dCv'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'bK3Ubu9p'
+type = 'REQUIRED'
