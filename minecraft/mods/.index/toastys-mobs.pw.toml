@@ -1,18 +1,18 @@
-filename = 'toastysmobs-2.5.1-neoforge-1.21.1.jar'
+filename = 'toastysmobs-2.5.2-neoforge-1.21.1.jar'
 name = "Toasty's Mobs"
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.5.1'
+x-prismlauncher-version-number = '2.5.2'
 
 [download]
-hash = '09093b69b62a4a688ac9121b9c9cfac5387a3cec48ff9aa345ecb9f073c59035586de68a91e23c18165d60abfae5433c20626aa768d93355930afdf39c65d521'
+hash = 'e509fbf8e4c6339d65d4f75f4440a1e505361b1bb2b99191ae2367bcb378c5eef5afbffbcd382add8cf92897339e3895a19e57c779785acd6c2b769e10c2fbd6'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ho9VjoF5/versions/S0XMdBbr/toastysmobs-2.5.1-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/Ho9VjoF5/versions/V3cA7L6k/toastysmobs-2.5.2-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'Ho9VjoF5'
-version = 'S0XMdBbr'
+version = 'V3cA7L6k'

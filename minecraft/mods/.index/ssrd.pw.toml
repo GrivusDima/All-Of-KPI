@@ -1,18 +1,33 @@
-filename = 'SSRD-0.3-1.21.1.jar'
-name = 'Separate Sable Render Distance'
-side = 'both'
-x-prismlauncher-dependencies = []
+filename = 'SSRD-1.8.5-1.21.1.jar'
+name = 'Seperate Sable Render Distance'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.3'
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.5'
 
 [download]
-hash = '59bc19b3df3fe9ba987ac3a445fa6ab33e0ba45276b405374ca15100d4184f388b2f7ca16e411d5ec8497af5eafc8c253f6585bac4faf95c906776ec297e055c'
+hash = '7f238068131477ffb628949d3528f8e933cde2ab05f2c20ff9786e9a0b538bb8e866a9b6dda7460899016fa41f23910013ee476cc876d1a4bbef0661436a1430'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/fJ183v3D/versions/SQ9q5sG9/SSRD-0.3-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/fJ183v3D/versions/OSM1jkMg/SSRD-1.8.5-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'fJ183v3D'
-version = 'SQ9q5sG9'
+version = 'OSM1jkMg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uCdwusMi'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AANobbMI'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fxxUqruK'
+type = 'OPTIONAL'

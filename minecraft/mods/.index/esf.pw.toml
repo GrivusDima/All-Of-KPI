@@ -1,20 +1,20 @@
-filename = 'entity_sound_features-0.8.1-1.21-neoforge.jar'
-name = '[ESF] Entity Sound Features'
-side = 'client'
+filename = 'entity_sound_features-0.8.2-1.21-neoforge.jar'
+name = 'Entity Sound Features'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.8.1-neoforge-1.21'
+x-prismlauncher-version-number = '0.8.2-neoforge-1.21'
 
 [download]
-hash = '0be00903856b5ddfdc01ae8c3de175247f19bb036f4df19c87c4ba76f7be2077d971bc8de9debea1943c819505c2d56f2b7a2b380f3053dbd2ac0f25c9674406'
+hash = 'da1c5fbe0217b05cff471bcb5220b31de09f8f5e5259ce0a8493c4af470a29e4e2a6b560c5b50f1bf2d7009f30e411d84faf00e6607c597b6cba4bcd293199d4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/IMuO8COj/versions/VjAma84k/entity_sound_features-0.8.1-1.21-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/IMuO8COj/versions/eafVUs7O/entity_sound_features-0.8.2-1.21-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'IMuO8COj'
-version = 'VjAma84k'
+version = 'eafVUs7O'
 
 [[x-prismlauncher-dependencies]]
 addonId = '4I1XuqiY'

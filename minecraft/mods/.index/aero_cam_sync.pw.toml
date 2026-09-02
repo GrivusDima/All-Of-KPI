@@ -1,18 +1,25 @@
-filename = 'aero_cam_sync-1.2.0.jar'
+filename = 'aero_cam_sync-1.4.0.jar'
 name = 'Aeronautics Camera Sync'
-side = 'both'
-x-prismlauncher-dependencies = []
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.2.0'
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.0'
 
 [download]
-hash = '4059795fb56ed044de49885f4d5d3da5f1c639856e77555d873960fc2df99383f0d685319c1b37164661bcf4aa4f66f7c56fbd038500a365a5691af4f013387b'
+hash = '0af37dcf2d90c262858d07861243c0800a2aa72254a18eacf093de9a07cdaa5a51f9cfd9ca5f32a7efccf9a0936cfcda0ee9fbbb252b00377db21a3af6dffb4b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ZGxtWu73/versions/vGsj4a2D/aero_cam_sync-1.2.0.jar'
+url = 'https://cdn.modrinth.com/data/ZGxtWu73/versions/UbgVQ0qd/aero_cam_sync-1.4.0.jar'
 
 [update.modrinth]
 mod-id = 'ZGxtWu73'
-version = 'vGsj4a2D'
+version = 'UbgVQ0qd'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'

@@ -1,0 +1,131 @@
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 2026-09-02 20:39:09
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue --
+Details:
+	Mod file: <No mod information provided>
+	Failure message: File mods\bc_particle-0.0.2-1.21.1.jar is a Fabric mod and cannot be loaded
+	Mod version: <No mod information provided>
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: sophisticatedbackpackscreateintegration --
+Details:
+	Mod file: /C:/Users/grivu/AppData/Roaming/PrismLauncher/instances/All Of KPI/minecraft/mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar
+	Failure message: Mod sophisticatedbackpackscreateintegration only supports jei 19.32.0.359 or above
+		Currently, jei is 19.27.0.343
+	Mod version: 0.1.8
+	Mod issues URL: https://github.com/P3pp3rF1y/SophisticatedBackpacksCreateIntegration/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: sophisticated_jei_index --
+Details:
+	Mod file: /C:/Users/grivu/AppData/Roaming/PrismLauncher/instances/All Of KPI/minecraft/mods/sophisticated_jei_index-1.2.2+1.21.1.jar
+	Failure message: Mod sophisticated_jei_index requires jei 19.44.0.403 or above
+		Currently, jei is 19.27.0.343
+		
+	Mod version: 1.2.2
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: createbetterfps --
+Details:
+	Mod file: /C:/Users/grivu/AppData/Roaming/PrismLauncher/instances/All Of KPI/minecraft/mods/createbetterfps-1.21.1-1.1.4.jar
+	Failure message: Mod createbetterfps requires sodium 0.6.9 or above
+		Currently, sodium is not installed
+		
+	Mod version: 1.1.4
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: sophisticatedcore --
+Details:
+	Mod file: /C:/Users/grivu/AppData/Roaming/PrismLauncher/instances/All Of KPI/minecraft/mods/sophisticatedcore-1.21.1-1.4.90.2299.jar
+	Failure message: Mod sophisticatedcore only supports jei 19.32.0.359 or above
+		Currently, jei is 19.27.0.343
+	Mod version: 1.4.90
+	Mod issues URL: https://github.com/P3pp3rF1y/SophisticatedCore/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: ssrd --
+Details:
+	Mod file: /C:/Users/grivu/AppData/Roaming/PrismLauncher/instances/All Of KPI/minecraft/mods/SSRD-1.8.5-1.21.1.jar
+	Failure message: Mod ssrd requires sodium 0 or above
+		Currently, sodium is not installed
+		
+	Mod version: 1.8.5
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 21.0.7, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 3303014400 bytes (3150 MiB) / 6442450944 bytes (6144 MiB) up to 8589934592 bytes (8192 MiB)
+	CPUs: 12
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+	Identifier: Intel64 Family 6 Model 165 Stepping 2
+	Microarchitecture: Comet Lake
+	Frequency (GHz): 2.59
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: Intel(R) UHD Graphics
+	Graphics card #0 vendor: Intel Corporation
+	Graphics card #0 VRAM (MiB): 1024.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 30.0.101.1029
+	Graphics card #1 name: NVIDIA GeForce RTX 3070 Laptop GPU
+	Graphics card #1 vendor: NVIDIA
+	Graphics card #1 VRAM (MiB): 8192.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 32.0.15.9649
+	Memory slot #0 capacity (MiB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 3.20
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 30999.65
+	Virtual memory used (MiB): 20736.93
+	Swap memory total (MiB): 14848.00
+	Swap memory used (MiB): 520.72
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 659554.63, total: 975297.00
+	Space in storage for workdir (MiB): available: 659554.63, total: 975297.00
+	JVM Flags: 5 total; -XX:+UseZGC -XX:+ZGenerational -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms6144m -Xmx8192m
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeclient
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.44.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.44.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.44.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		kotlinforforge@5.12.0
+		kritter@2.0.0-alpha.55
+		__fabric_loader_bootstrap@2.5.68+0.18.4+1.21.1
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		neoforge-21.1.249-universal.jar                   |NeoForge                      |neoforge                      |21.1.249            |Manifest: NOSIGNATURE

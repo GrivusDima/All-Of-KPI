@@ -3,6 +3,7 @@
         {
             "cachedName": "LWJGL 3",
             "cachedVersion": "3.3.3",
+            "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
             "version": "3.3.3"
@@ -28,9 +29,9 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "cachedVersion": "21.1.229",
+            "cachedVersion": "21.1.249",
             "uid": "net.neoforged",
-            "version": "21.1.229"
+            "version": "21.1.249"
         }
     ],
     "formatVersion": 1

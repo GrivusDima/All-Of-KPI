@@ -1,0 +1,33 @@
+filename = '-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip'
+name = 'Fresh Moves'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.18.2',
+    '1.19.2',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '3.1'
+
+[download]
+hash = '40daf2d7bbccd19d38637adc2d14df1e16685aacd6c00af22d686b547d8df675246170137b7372139d34dcb9ad4c3f8606222bc771a85a335242c760254c99b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/slufHzC2/versions/4uyHvhnf/-1.21.2 Fresh Moves v3.1 %28With Animated Eyes%29.zip'
+
+[update.modrinth]
+mod-id = 'slufHzC2'
+version = '4uyHvhnf'

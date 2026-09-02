@@ -1,14 +1,3 @@
-/chunky cancel
-/chunky confirm
-/gamemode survival
-/gamemode creative
-/summon minecraft:ender_dragon
-/gamemode survival
-/gamemode creative
-/kill
-/fill 228 84 -102
-/fill 228 84 -102 326 84 -102 tnt
-/gamemode survival
 /gamemode creative
 /gamemode survival
 /kill @e
@@ -48,3 +37,14 @@
 /fill 984 -39 253 969 -37 237 tnt
 /tp @e GrivusDima
 /kill @e
+/gamemode survival
+/effect clear GrivusDima cold_sweat:grace
+/gamemode creative
+/gamemode survival
+/effect clear GrivusDima cold_sweat:grace
+/tp GrivusDima nether
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/effect clear GrivusDima cold_sweat:grace
+/time set midnight

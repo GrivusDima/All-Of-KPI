@@ -1,8 +1,10 @@
-filename = 'FA+Objects-v2.1.zip'
+filename = 'FA+Objects-v2.1.2.zip'
 name = 'Fresh Animations: Objects'
-side = 'client'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
+    '1.20',
     '1.20.1',
     '1.20.2',
     '1.20.3',
@@ -23,21 +25,18 @@ x-prismlauncher-mc-versions = [
     '1.21.11',
     '26.1',
     '26.1.1',
-    '26.1.2'
+    '26.1.2',
+    '26.2'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.1.0'
+x-prismlauncher-version-number = '2.1.2'
 
 [download]
-hash = 'eb66e493814f9186b1e0f2dce6f4d2e79b1d67a5b219d21bc30a9a9f781cbc0fd7c1ffd114f3d08056ca02abef459f85e2f6921e1dd7ca2368630f2cba14042f'
+hash = '61b76ed37e5ecfc4b5d25c545b011bb5bb59c49c97733d0f8b3afa725c886ed82e787d177df068f7e2fb3d5bb6fc253c5822d833658ff3ba48bd53b5c6c1ed21'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/23O9JVMV/versions/uuAA3kpY/FA%2BObjects-v2.1.zip'
+url = 'https://cdn.modrinth.com/data/23O9JVMV/versions/AIGgXNdl/FA%2BObjects-v2.1.2.zip'
 
 [update.modrinth]
 mod-id = '23O9JVMV'
-version = 'uuAA3kpY'
-
-[[x-prismlauncher-dependencies]]
-addonId = '50dA9Sha'
-type = 'OPTIONAL'
+version = 'AIGgXNdl'

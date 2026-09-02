@@ -1,18 +1,18 @@
-filename = 'createbetterbaking-2.0.1-neoforge-1.21.1.jar'
-name = 'Create Better Baking'
-side = 'both'
+filename = 'createbetterbaking-3.0.0-neoforge-1.21.1.jar'
+name = 'createbetterbaking'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.0.1'
+x-prismlauncher-version-number = '3.0.0'
 
 [download]
-hash = '127d35ec04cc898a84d3a86b322867f3620f376b713aeed581111d6ebf50fc6781248229c3c2b9bb83a3e70fada00458b485612a06190969dfdca3e721aeb913'
+hash = '0755c6f56bfd1d76649e551d02dd067bb39cc4cc16bbcc1aedfb4556b3212fd4d080385d56289698d9cb76e12a49cffa12423d7d7777d1fe441b5a27b8f2ab89'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/aFxsgmUu/versions/GgoJUSvH/createbetterbaking-2.0.1-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/aFxsgmUu/versions/eTs7TiIV/createbetterbaking-3.0.0-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'aFxsgmUu'
-version = 'GgoJUSvH'
+version = 'eTs7TiIV'

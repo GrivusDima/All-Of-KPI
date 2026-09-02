@@ -1,18 +1,18 @@
-filename = 'classical_music_disc-0.2-neoforge-1.21.1.jar'
-name = 'Classic Music Disc'
+filename = 'classical_music_disc-0.4-neoforge-1.21.1.jar'
+name = 'Classical Music Disc'
 side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'classical music disc 0.2 neoforge 1.21.1'
+x-prismlauncher-version-number = 'classical_music_disc-0.4-neoforge-1.21.1.jar'
 
 [download]
-hash = '9c31521bc2f7492e10e850c735416758e17d9f99'
+hash = '71deccdfe1b7cd8be8333a491e5e180c3abd4a64'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7243693
+file-id = 8394282
 project-id = 1334575

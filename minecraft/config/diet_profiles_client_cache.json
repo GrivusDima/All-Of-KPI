@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "mod_list_hash": "-1000498000",
-  "calculated_at": 1778685927301,
+  "mod_list_hash": "1383262515",
+  "calculated_at": 1788368168089,
   "profiles": {
     "farmersdelight:bacon": {
       "protein": 1.5600001
@@ -722,9 +722,6 @@
     "aethersdelight:peppermint_tea": {
       "sugar": 2.2,
       "water": 1.6
-    },
-    "cold_sweat:soul_sprout": {
-      "vegetable": 4.5
     },
     "deep_aether:green_squash_slice": {
       "vegetable": 3.0

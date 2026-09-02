@@ -17,6 +17,6 @@
 	"swingThruGrassBlacklist": "farmersdelight",
 	"mineWithWeaponBlacklist": "",
 	"mineWithWeaponWhitelist": "",
-	"firstPersonAnimations": "YES",
+	"firstPersonAnimations": "AUTO",
 	"legAnimationThreshold": 0.0
 }

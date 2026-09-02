@@ -1,18 +1,31 @@
-filename = 'Stellarity-5.4.0-Music.zip'
+filename = 'Stellarity-5.2.0-Music.zip'
 name = 'Stellarity Music Addon'
-side = 'client'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [ '26.1', '26.1.1' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '5.4.0'
+x-prismlauncher-version-number = '5.2.0'
 
 [download]
-hash = '3dfa046753e104c5db41a58044cca422cb581cdaa2ba52af20ff9dbd30004c2f6c1d8d00fd20986b2831e0dc890e7d1449087f469be316f694e5e3d3ddc52806'
+hash = '076a752b791f96fa431df22ac3b1e87c24d9daeb873f21d04257ad51cc4ca61ffdec80a97a132f0261cdaba6b41324e6139ced8fba534d84d59d179a44739f94'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/IJHcrsas/versions/4Dsv10Gi/Stellarity-5.4.0-Music.zip'
+url = 'https://cdn.modrinth.com/data/IJHcrsas/versions/KlL5P1FZ/Stellarity-5.2.0-Music.zip'
 
 [update.modrinth]
 mod-id = 'IJHcrsas'
-version = '4Dsv10Gi'
+version = 'KlL5P1FZ'

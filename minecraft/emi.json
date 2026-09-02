@@ -1,6 +1,18 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:cataclysm:ignitium_helmet",
+    "item:cold_sweat:goat_fur_chestplate",
+    "item:cold_sweat:hoglin_hide",
+    "item:cold_sweat:hoglin_chestplate",
+    "item:cold_sweat:goat_fur",
+    {
+      "type": "fluid",
+      "id": "create:potion",
+      "nbt": "{\"create:potion_fluid_bottle_type\":\"regular\",\"minecraft:potion_contents\":{potion:\"minecraft:healing\"}}",
+      "amount": 1000
+    },
+    "item:creategoggles:goggle_iron_helmet",
     "item:cataclysm:the_harbinger_spawn_egg",
     "item:cataclysm:void_forge",
     "item:createbigcannons:bronze_autocannon_barrel",

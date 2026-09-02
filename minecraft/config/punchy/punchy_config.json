@@ -1,7 +1,7 @@
 {
   "renderArmorArmsFP": true,
   "interactiveStuffCompat": false,
-  "bettercombatCompat": false,
+  "bettercombatCompat": true,
   "swordBlockingCompat": false,
   "animationSpeed": 5.5,
   "enableMod": true,
@@ -19,6 +19,7 @@
   "enableClimbAnimation": true,
   "enableSwimAnimation": true,
   "enableElytraFlightAnimation": true,
+  "disableNewKeyframeMoves": true,
   "enableCustomWalk": true,
   "enableSprintArmSwing": true,
   "enableFallArmAnimation": true,

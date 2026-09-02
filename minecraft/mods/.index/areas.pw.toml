@@ -1,20 +1,20 @@
-filename = 'areas-1.21.1-6.1.jar'
+filename = 'areas-1.21.1-6.4.jar'
 name = 'Areas'
-side = 'client'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-6.1-fabric+forge+neo'
+x-prismlauncher-version-number = '1.21.1-6.4-fabric+forge+neo'
 
 [download]
-hash = '0eb79d3ff53ff35e8e5a45ea1b449239cbb3783149d70159d05d4b2d6d835c04c437cbc4c21d0679009cf9f97277de5cd03f2f71f6c53f537a6e2e72eec3831e'
+hash = '18fd5d20f059305f878473bd914fb02c7b857190daa053f1458dc493711d51cab4635d4ced4f6d0a927efa379b9b265330db8d160493a3c6e8815ac590b55bcc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NWvsqJ2Z/versions/Ppbb7pia/areas-1.21.1-6.1.jar'
+url = 'https://cdn.modrinth.com/data/NWvsqJ2Z/versions/ApvQigGP/areas-1.21.1-6.4.jar'
 
 [update.modrinth]
 mod-id = 'NWvsqJ2Z'
-version = 'Ppbb7pia'
+version = 'ApvQigGP'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'e0M1UDsY'

@@ -1,18 +1,18 @@
-filename = 'journeymap-neoforge-1.21.1-6.0.0-beta.72.jar'
-name = 'JourneyMap'
-side = 'both'
+filename = 'journeymap-neoforge-1.21.1-6.0.7.jar'
+name = 'Journeymap-NeoForge'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.21.1-6.0.0-beta.72+neoforge'
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-6.0.7+neoforge'
 
 [download]
-hash = '76529993826db63d21f9b270ce9059844d5b44db6360367209481e323462cb4cfaec8fe576efd6ffd3f7b4683d760bfef5301f47bc4514acacd7faa8a8f5d37d'
+hash = '5e79ec5aaf06329513e9b4537d8ef91a9d91ab3091fa475df4ba15bbd5907192c100f7870ae705dfc31f3ea7e82b8e98173ffc04dda9c292eeaa816bd33076fa'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/lfHFW1mp/versions/GJK0zDM4/journeymap-neoforge-1.21.1-6.0.0-beta.72.jar'
+url = 'https://cdn.modrinth.com/data/lfHFW1mp/versions/IAVJBO0C/journeymap-neoforge-1.21.1-6.0.7.jar'
 
 [update.modrinth]
 mod-id = 'lfHFW1mp'
-version = 'GJK0zDM4'
+version = 'IAVJBO0C'

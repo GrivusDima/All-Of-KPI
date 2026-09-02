@@ -258,3 +258,13 @@
 	# Default: 0.7
 	# Range: 0.0 ~ 3.0
 	shrapnelWhistleVolume = 0.7
+
+[General_Settings]
+	#Allow shrapnel to destroy thin and fragile blocks? (sugar cane, bamboo, decorative blocks, etc)
+	allowThinBlocksDestruction = true
+	#Allow shrapnel to shatter blocks with glass type sound?
+	allowGlassDestruction = true
+	#Allow shrapnel to penetrate certain blocks and continue flying? (wooden doors, fences, leaves)
+	allowPenetration = true
+	#Allow shrapnel chance to bounce off hard surfaces like stone or metal?
+	allowRicochet = true

@@ -1,29 +1,29 @@
-filename = 'Stellar View-1.21.1-0.5.2-NeoForge.jar'
+filename = 'Stellar.View-1.21.1-0.5.3-NeoForge.jar'
 name = 'Stellar View'
-side = 'client'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.5.2'
+x-prismlauncher-version-number = '0.5.3'
 
 [download]
-hash = '76040793d7bae9dd2b557f4f8c1bc6eeb00521ba21582bff2c57a91b0d5709e5c0a9c1ba980f48e96aebde2a64d288d58df885ecaf82178fae8eb5fbd0982b55'
+hash = 'a8e44decd95bacfafb19a2b70130e750328ba11a0ad9fc88dbfbcfb80bfacb11a80e7f7c47a7517490dc149b9e39d42576d417576cb0e338608f3dfca06d2d08'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Iairjv0A/versions/QD13LaRR/Stellar View-1.21.1-0.5.2-NeoForge.jar'
+url = 'https://cdn.modrinth.com/data/Iairjv0A/versions/g6rSPP7e/Stellar.View-1.21.1-0.5.3-NeoForge.jar'
 
 [update.modrinth]
 mod-id = 'Iairjv0A'
-version = 'QD13LaRR'
+version = 'g6rSPP7e'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'PwhlJMsW'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '2rL16t1O'
+addonId = 'YhmgMVyu'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'YhmgMVyu'
+addonId = '2rL16t1O'
 type = 'OPTIONAL'
