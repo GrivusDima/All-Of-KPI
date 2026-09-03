@@ -8,7 +8,7 @@ _version = 4
 		[client.advanced.graphics]
 			#
 			# Enable Screen Space Ambient Occlusion
-			enableSsao = true
+			enableSsao = false
 			#
 			# If true some vanilla graphics settings will be automatically changed 
 			# during DH setup to provide a better experience. 
@@ -30,7 +30,7 @@ _version = 4
 				# 
 				# Higher settings will increase the distance between drops 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "LOWEST"
 				#
 				# What is the maximum detail LODs can render at? 
 				# Higher settings will increase memory and GPU usage. 
@@ -43,7 +43,7 @@ _version = 4
 				# 
 				# Fastest: CHUNK
 				# Fanciest: BLOCK
-				maxHorizontalResolution = "BLOCK"
+				maxHorizontalResolution = "TWO_BLOCKS"
 				#
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
@@ -51,13 +51,13 @@ _version = 4
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: PIXEL_ART
-				verticalQuality = "MEDIUM"
+				verticalQuality = "HEIGHT_MAP"
 				#
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# DISABLED: LODs will be opaque.
-				transparency = "COMPLETE"
+				transparency = "DISABLED"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
@@ -89,18 +89,18 @@ _version = 4
 				# If true LODs will fade away as you get closer to them. 
 				# If false LODs will cut off abruptly at a set distance from the camera. 
 				# This setting is affected by the vanilla overdraw prevention config.
-				ditherDhFade = true
+				ditherDhFade = false
 				#
 				# How should vanilla Minecraft fade into Distant Horizons LODs? 
 				# 
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "DOUBLE_PASS"
+				vanillaFadeMode = "NONE"
 				#
 				# Should DH fade out before reaching the far clip plane? 
 				# This is helpful to prevent DH clouds from cutting off in the distance.
-				dhFadeFarClipPlane = true
+				dhFadeFarClipPlane = false
 				#
 				# How bright LOD colors are. 
 				# 
@@ -122,7 +122,7 @@ _version = 4
 				#     '0' equals to Vanilla Biome Blending of '1x1' or 'OFF', 
 				#     '1' equals to Vanilla Biome Blending of '3x3', 
 				#     '2' equals to Vanilla Biome Blending of '5x5'...
-				lodBiomeBlending = 3
+				lodBiomeBlending = 0
 				#
 				# If true DH will try to use the camera position when 
 				# determining LOD quality drop-off. 
@@ -784,7 +784,7 @@ _version = 4
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 9
+		numberOfThreads = 6
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 

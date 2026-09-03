@@ -285,7 +285,96 @@
 			"editable": false
 		}
 	],
-	"noisePresets": [],
+	"noisePresets": [
+		{
+			"octaves": [
+				[
+					-1,
+					0,
+					1,
+					2
+				],
+				[
+					-3,
+					-1,
+					0,
+					1,
+					2
+				],
+				[
+					-2,
+					0,
+					1,
+					2
+				],
+				[
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Default",
+			"key": "default",
+			"description": "Varied patches of clouds. Creates different cloud patterns every day!",
+			"editable": false
+		},
+		{
+			"octaves": [
+				[
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Dotted",
+			"key": "dotted",
+			"description": "Many patches of small clouds, with medium holes of clear sky",
+			"editable": false
+		},
+		{
+			"octaves": [
+				[
+					-1,
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Fluffy",
+			"key": "fluffy",
+			"description": "The old, fluffy clouds from 1.12.x Better Clouds",
+			"editable": false
+		},
+		{
+			"octaves": [
+				[
+					-3,
+					-1,
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Grand",
+			"key": "sparse",
+			"description": "Grand, vast fields of clouds. May be too performance-heavy on high render distance.",
+			"editable": false
+		},
+		{
+			"octaves": [
+				[
+					-2,
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Medium",
+			"key": "medium",
+			"description": "Medium-sized heaps of clouds, with fields of clear sky",
+			"editable": false
+		}
+	],
 	"lastTelemetryVersion": 0,
 	"gpuIncompatibleMessageEnabled": true,
 	"issueReportEnabled": true,

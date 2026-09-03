@@ -1,0 +1,41 @@
+filename = 'fape_compat-0.5.jar'
+name = 'FA: Player Extension Compat'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.5'
+
+[download]
+hash = 'f31250b316ee0042c9198a9ea33b31f1f5a739d2b9e88b32c525e09fc1e2f15ab0e8fbcc4bc08f01b7f5da9d47f6ee58ad92750ac7b2ea882f3077e0522db837'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/I44nKnul/versions/bnJ3NeZX/fape_compat-0.5.jar'
+
+[update.modrinth]
+mod-id = 'I44nKnul'
+version = 'bnJ3NeZX'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gedNE4y2'
+type = 'REQUIRED'
+version = 'HJZB6bmA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TAIMVZCL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5sy6g3kz'
+type = 'REQUIRED'
+version = '2NyTus6V'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BVzZfTc1'
+type = 'REQUIRED'
+version = 'vVFfQs14'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4I1XuqiY'
+type = 'REQUIRED'
+version = 'Z0UKemxw'

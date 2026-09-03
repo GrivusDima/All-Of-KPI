@@ -1,1 +1,1 @@
-["create:auto_schedule","create:track_chunks","create:train_assembly","create:track_placement","create:track_portal","create:train_controls"]
+["create:auto_schedule","simulated:portable_engine","create:track_chunks","create:train_assembly","create:track_placement","create:track_portal","create:train_controls","create:fan_direction"]

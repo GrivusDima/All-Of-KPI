@@ -107,4 +107,4 @@ suppressAll = false
 #Used to detect when a config reset prompt should be shown.
 # Default: 0
 # Range: > 0
-configSchemaVersion = 0
+configSchemaVersion = 5

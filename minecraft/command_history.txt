@@ -1,50 +1,50 @@
 /gamemode creative
 /gamemode survival
-/kill @e
-/tp @e GrivusDima
-/tp @e ~ ~ ~-
-/tp @e ~ 100 ~
-/gamemode creative
-/time set noon
-/summon minecraft:ender_dragon
-/kill @s
-/kill @r
-/kill @p
-/kill @n
-/kill @e
-/summon cataclysm:the_harbinger
-/summon cataclysm:amethyst_crab
-/summon cataclysm:wither_howitzer
-/summon cataclysm:brontes
-/summon cataclysm:wadjet
-/summon minecraft:slime
-/summon minecraft:pig
-/summon minecraft:slime
-/summon minecraft:pig
-/summon minecraft:slime
-/summon minecraft:pig
-/kill @e
-/tp @e GrivusDima
-/kill @e
-/tp @e GrivusDima
-/summon aeronautics:gust
-/summon cataclysm:accretion
-/summon cataclysm:amethyst_crab
-/tp @e GrivusDima
-/fill 984 -39 253
-/fill 984 -39 253 969 -37 237 tnt
-/tp @e GrivusDima
-/fill 984 -39 253 969 -37 237 tnt
-/tp @e GrivusDima
-/kill @e
-/gamemode survival
-/effect clear GrivusDima cold_sweat:grace
-/gamemode creative
-/gamemode survival
-/effect clear GrivusDima cold_sweat:grace
-/tp GrivusDima nether
-/gamemode survival
-/gamemode creative
-/gamemode survival
 /effect clear GrivusDima cold_sweat:grace
 /time set midnight
+/chunky center 0 0
+/chunky radius 100 100
+/chunky confirm
+/chunky start
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode
+/gamemode creative
+/locateacbiome abyssal_chasm
+/tp @s 2152 ~ 424
+/tp GrivusDima 2152 ~ 424
+/gamemode spectator
+/locateacbiome candy_cavity
+/tp @s 200 ~ 1896
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/fill 627 69 1049
+/fill 627 69 1049 618 60 1058
+/fill 627 69 1049 618 60 1058 tnt
+/fill 604 66 891
+/fill 604 66 891 598 59 885
+/fill 604 66 891 598 59 885 tnt
+/fill 401 65 824
+/fill 401 65 824 390 56 819 tnt
+/fill 401 66 824 401 66 824
+/fill 401 66 824 401 66 824 fire
+/tp 807.06 127.38 682.77
+/fill 401 65 824 390 56 819 tnt
+/tp 807.06 127.38 682.77
+/tp aether
+/time set midnight
+/locate structure create_sky_village:skyvillage
+/locate structure #minecraft:ruined_portal
+/time set noon
+/weather thunder
+/weather clear
+/time set night
+/give GrivusDima minecraft:elytra
+/give GrivusDima minecraft:firework_rocket 64
+/effect give GrivusDima minecraft:regeneration infinite 100
+/summon tnt
+/locate structure create_sky_village:skyvillage
+/summon tnt
+/locate structure terralith:fortified_village
