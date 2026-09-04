@@ -26,7 +26,5 @@ services:
       JVM_XX_OPTS: "-XX:+UseZGC -XX:+ZGenerational -XX:+AlwaysPreTouch -XX:+UseStringDeduplication"
     volumes:
       - ./data:/data
-      - ../modpack/minecraft/mods:/repo-mods:ro
-      - ./00-rsync-mods.sh:/docker-entrypoint.d/00-rsync-mods.sh:ro
     restart: unless-stopped
 networks: {}

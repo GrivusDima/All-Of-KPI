@@ -1,8 +1,9 @@
 #!/bin/bash
 set -euo pipefail
 
-SRC_MODS="/repo-mods"
-DEST_MODS="/data/mods"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SRC_MODS="${SCRIPT_DIR}/../modpack/minecraft/mods"
+DEST_MODS="${SCRIPT_DIR}/data/mods"
 
 BANLIST=(
   "AdvancementPlaques"
