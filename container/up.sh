@@ -1,5 +1,5 @@
 #!/bin/bash
 set -e
 cd "$(dirname "$0")"
-./00-rsync-mods.sh
+./sync-mods.sh
 docker compose up -d

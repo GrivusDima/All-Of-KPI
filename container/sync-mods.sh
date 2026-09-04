@@ -85,10 +85,12 @@ if [ ! -d "$SRC_MODS" ]; then
   exit 1
 fi
 
-mkdir -p "$DEST_MODS"
-
 echo "Syncing mods from ${SRC_MODS} to ${DEST_MODS}..."
-rsync -a --delete "${SRC_MODS}/" "${DEST_MODS}/"
+
+# Clear destination and repopulate, so removed/renamed mods don't linger
+rm -rf "$DEST_MODS"
+mkdir -p "$DEST_MODS"
+cp -f "${SRC_MODS}"/*.jar "$DEST_MODS"/ 2>/dev/null || true
 
 echo "Applying banlist..."
 removed=0
