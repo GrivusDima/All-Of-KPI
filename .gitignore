@@ -55,3 +55,8 @@ minecraft/screenshots/
 # Hard crashes / Java error logs
 *.log
 hs_err_pid*
+
+# =========================================
+# 6. Container Data
+# =========================================
+container/data/
