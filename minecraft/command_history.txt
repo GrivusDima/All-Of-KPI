@@ -1,39 +1,3 @@
-/gamemode creative
-/gamemode survival
-/effect clear GrivusDima cold_sweat:grace
-/time set midnight
-/chunky center 0 0
-/chunky radius 100 100
-/chunky confirm
-/chunky start
-/gamemode survival
-/gamemode creative
-/gamemode survival
-/gamemode
-/gamemode creative
-/locateacbiome abyssal_chasm
-/tp @s 2152 ~ 424
-/tp GrivusDima 2152 ~ 424
-/gamemode spectator
-/locateacbiome candy_cavity
-/tp @s 200 ~ 1896
-/gamemode creative
-/gamemode survival
-/gamemode creative
-/fill 627 69 1049
-/fill 627 69 1049 618 60 1058
-/fill 627 69 1049 618 60 1058 tnt
-/fill 604 66 891
-/fill 604 66 891 598 59 885
-/fill 604 66 891 598 59 885 tnt
-/fill 401 65 824
-/fill 401 65 824 390 56 819 tnt
-/fill 401 66 824 401 66 824
-/fill 401 66 824 401 66 824 fire
-/tp 807.06 127.38 682.77
-/fill 401 65 824 390 56 819 tnt
-/tp 807.06 127.38 682.77
-/tp aether
 /time set midnight
 /locate structure create_sky_village:skyvillage
 /locate structure #minecraft:ruined_portal
@@ -48,3 +12,39 @@
 /locate structure create_sky_village:skyvillage
 /summon tnt
 /locate structure terralith:fortified_village
+/ftbquests reload
+/locate structure #betterdeserttemples:applies_mining_fatigue
+/locate structure #cataclysm:eye_of_storm_located
+/locate structure underground_village:underwater_village
+/tp @s -784 ~ -800
+/locate structure block_factorys_bosses:kraken_ship
+/tp @s -2384 ~ 320
+/tp @s -784 ~ -800
+/locate structure structory:firetower
+/tp @s -4640 ~ -3840
+/gamemode spectator
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/tp 66011377-0a2e-412f-a4a0-283e2f438703
+/tp @e GrivusDima
+/gamemode survival
+/gamemode creative
+/chunksmith radius 500
+/chunksmith start
+/chunksmith cancel
+/cs confirm
+/chunksmith center 214 96
+/cs radius 500
+/cs start
+/cs progress
+/gamemode survival
+/time set midnight
+/gamemode creative
+/time set midnight
+/time set night

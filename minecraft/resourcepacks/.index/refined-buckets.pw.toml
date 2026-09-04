@@ -1,0 +1,32 @@
+filename = 'Refined Buckets 2.4.1.zip'
+name = 'Refined Buckets'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.21.1',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.4.1'
+
+[download]
+hash = '905cb033c439d4078dff4de76a0e9b7b46fb9a10d43607b32a624d6cb4189c003a17eddc690e5408a5cf5afd84052b99b94ba6a780e0387c7c43833b27f382f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l2nl8HQJ/versions/IDRASEyH/Refined Buckets 2.4.1.zip'
+
+[update.modrinth]
+mod-id = 'l2nl8HQJ'
+version = 'IDRASEyH'

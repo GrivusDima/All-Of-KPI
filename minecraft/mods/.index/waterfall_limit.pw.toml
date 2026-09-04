@@ -1,0 +1,18 @@
+filename = 'waterfall-1.0.jar'
+name = 'Waterfall Limit'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = 'dc1cbb18fd750a418802bc42f9c30556ccf9fd8c4ece3d5e68862ed84af6816db725fcb44313fc3a3a2f0716a5a62fb8029ba8ded3c9657158ba1a96d8082a59'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/REJ5DYvV/versions/QAzEPm3K/waterfall-1.0.jar'
+
+[update.modrinth]
+mod-id = 'REJ5DYvV'
+version = 'QAzEPm3K'

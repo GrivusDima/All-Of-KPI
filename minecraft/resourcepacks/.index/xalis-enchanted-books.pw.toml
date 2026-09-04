@@ -1,0 +1,18 @@
+filename = "xali's enchanted book v1.0.0.zip"
+name = "xali's Enchanted Books"
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.13', '1.13.1', '1.13.2', '1.14', '1.21', '1.21.1', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'a7247fe93b7f3c36338564b5a21a22840723265372434eccbf722d9d1b15201c1c7f02fd4b4e30a228e1db3b700569fdc11d604cb0a6e3f71f14a2bdb623caee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZpBKASR2/versions/3I3axi22/xali%27s enchanted book v1.0.0.zip'
+
+[update.modrinth]
+mod-id = 'ZpBKASR2'
+version = '3I3axi22'

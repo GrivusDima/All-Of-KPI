@@ -1,0 +1,18 @@
+filename = 'particle_effects-1.21.1-NeoForge-1.0.1.jar'
+name = 'Particle Effects Reforged'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = 'beb82c571b34adaa3900402daf7be97dd3b004b1d1b3b89a1d458a712a47c8a66ec5f25dd0741253c8e6f5ebfdf995a64af83b614cefb59497afe345a008072c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QxYN8FNF/versions/dr8C4huF/particle_effects-1.21.1-NeoForge-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'QxYN8FNF'
+version = 'dr8C4huF'

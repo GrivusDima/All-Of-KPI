@@ -1,0 +1,40 @@
+filename = 'STBC-Fix.zip'
+name = 'Stellarity Better Combat RP Fix'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.21.2 Pre-Release 1',
+    '1.21.2 Pre-Release 2',
+    '1.21.2-pre1',
+    '1.21.2-pre2',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '24w33a',
+    '24w34a',
+    '24w35a',
+    '24w36a',
+    '24w37a',
+    '24w38a',
+    '24w39a',
+    '24w40a',
+    '24w44a',
+    '24w45a',
+    '24w46a'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.2.0'
+
+[download]
+hash = '02c5362e783e70d1101b172c189853a6f92a5bbefbb976a79c55e8cb8ca68edb7675d32527734874907a061ea5b45df075bbc971bd4e99e2b5426750ca6aaabc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CJdAEeag/versions/uKAYfczP/STBC-Fix.zip'
+
+[update.modrinth]
+mod-id = 'CJdAEeag'
+version = 'uKAYfczP'

@@ -35,8 +35,30 @@
   "enableBlurGlowAtDark": false,
   "firstPersonModelHideEnabled": true,
   "firstPersonModelHidePitch": 60.0,
-  "itemBlacklist": [],
-  "blacklistApplyDualHanded": {},
+  "itemBlacklist": [
+    "simplyswords:gold_claymore",
+    "cgs:revolver",
+    "cgs:shotgun",
+    "cgs:hammer",
+    "cgs:nailgun",
+    "cgs:launcher",
+    "cgs:gatling",
+    "cgs:frag_grenade",
+    "cgs:flintlock",
+    "cgs:blazegun"
+  ],
+  "blacklistApplyDualHanded": {
+    "simplyswords:gold_claymore": false,
+    "cgs:revolver": false,
+    "cgs:shotgun": false,
+    "cgs:hammer": false,
+    "cgs:nailgun": false,
+    "cgs:launcher": false,
+    "cgs:gatling": false,
+    "cgs:frag_grenade": false,
+    "cgs:flintlock": false,
+    "cgs:blazegun": false
+  },
   "animationPackSelections": {},
   "animationPackTypeSelections": {},
   "mixSpecificForceOverride": {}

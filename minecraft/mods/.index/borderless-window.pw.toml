@@ -1,0 +1,18 @@
+filename = 'borderless-neoforge-1.21.1-1.7.5_1-all.jar'
+name = 'Borderless Window'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.7.5_1'
+
+[download]
+hash = '8914975ee00914a7b14ecbd5da9ca3952ed4c4f8a559f6cb2d3de4b577dde5dfa8d89acde277498b922accc76669ac9095269b5e5322045e79624e0a2c94d2af'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CnalMsa0/versions/fAp1G5Ro/borderless-neoforge-1.21.1-1.7.5_1-all.jar'
+
+[update.modrinth]
+mod-id = 'CnalMsa0'
+version = 'fAp1G5Ro'

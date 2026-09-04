@@ -1,0 +1,18 @@
+filename = 'CreatEnhanceDisplay.zip'
+name = 'Create Enhanced Display'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2'
+
+[download]
+hash = '534d369aa7786f94f82590da7dd69d531e46c73cb486e75c6797eae648da6a40c5b04343219f7d3dea18cc22c9b6a3442775fa4abef03a26c6dd38abc18beda5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/J5EYn4B4/versions/SyJRU75W/CreatEnhanceDisplay.zip'
+
+[update.modrinth]
+mod-id = 'J5EYn4B4'
+version = 'SyJRU75W'

@@ -1,18 +1,18 @@
-filename = 'punchy-2.7d-neoforge-1.21.1.jar'
+filename = 'punchy-2.7e-neoforge-1.21.1.jar'
 name = 'Punchy'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.7d'
+x-prismlauncher-version-number = '2.7e'
 
 [download]
-hash = '5f42431c67e61d3f8e74ad637b5911cae9257f9c7d172fdf80924ad9f957f3ddd90ca5945dfc89cada50e2ee4c84ecbff9590de942410a48b6c7febf22de58c5'
+hash = '179d5539b617589b58efa22d8d9428c152a3044ad3dc64de234f423532368495d7392051ee7cdf3edbed436d460336a7f409dd80205093f3069b1f01ce74b5f8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/8aoMKplv/versions/F6nWR1sw/punchy-2.7d-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/8aoMKplv/versions/VLH9BG2z/punchy-2.7e-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = '8aoMKplv'
-version = 'F6nWR1sw'
+version = 'VLH9BG2z'
