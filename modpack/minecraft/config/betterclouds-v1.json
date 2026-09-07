@@ -25,9 +25,9 @@
 	"usePersistentBuffers": true,
 	"useSamplerCaching": true,
 	"useFrustumCulling": true,
-	"irisSupport": true,
+	"irisSupport": false,
 	"selectedNoisePreset": 0,
-	"cloudOverride": true,
+	"cloudOverride": false,
 	"useIrisFBO": true,
 	"selectedPreset": 0,
 	"presets": [

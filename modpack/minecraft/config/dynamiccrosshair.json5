@@ -10,7 +10,7 @@
 		"onInteractableBlock": true,
 		"onEntity": true,
 		"holdingTool": "Always",
-		"displayCorrectTool": true,
+		"displayCorrectTool": false,
 		"holdingMeleeWeapon": true,
 		"meleeWeaponOnEntity": false,
 		"meleeWeaponOnBreakableBlock": false,
@@ -110,14 +110,14 @@
 	"crosshairModifiers": {
 		"modCorrectTool": {
 			"style": "dynamiccrosshair:crosshair/dot",
-			"overrideColor": true,
+			"overrideColor": false,
 			"customColor": -16711936,
 			"enableBlend": false,
 			"coalesce": true
 		},
 		"modIncorrectTool": {
 			"style": "dynamiccrosshair:crosshair/cross-diagonal-small",
-			"overrideColor": true,
+			"overrideColor": false,
 			"customColor": -65536,
 			"enableBlend": false,
 			"coalesce": true

@@ -24,7 +24,7 @@ _version = 4
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 250
+				lodChunkRenderDistanceRadius = 96
 				#
 				# This indicates how far apart drops in LOD quality are. 
 				# 
@@ -43,7 +43,7 @@ _version = 4
 				# 
 				# Fastest: CHUNK
 				# Fanciest: BLOCK
-				maxHorizontalResolution = "BLOCK"
+				maxHorizontalResolution = "TWO_BLOCKS"
 				#
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
@@ -96,7 +96,7 @@ _version = 4
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "DOUBLE_PASS"
+				vanillaFadeMode = "SINGLE_PASS"
 				#
 				# Should DH fade out before reaching the far clip plane? 
 				# This is helpful to prevent DH clouds from cutting off in the distance.
@@ -122,7 +122,7 @@ _version = 4
 				#     '0' equals to Vanilla Biome Blending of '1x1' or 'OFF', 
 				#     '1' equals to Vanilla Biome Blending of '3x3', 
 				#     '2' equals to Vanilla Biome Blending of '5x5'...
-				lodBiomeBlending = 3
+				lodBiomeBlending = 1
 				#
 				# If true DH will try to use the camera position when 
 				# determining LOD quality drop-off. 
@@ -784,7 +784,7 @@ _version = 4
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 3
+		numberOfThreads = 4
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -792,7 +792,7 @@ _version = 4
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		threadRunTimeRatio = "1.0"
+		threadRunTimeRatio = "0.7"
 		#
 		# What Java thread priority should DH's primary thread pools run with? 
 		# 
@@ -916,7 +916,7 @@ _version = 4
 	# When enabled, Distant Horizons will attempt to download missing LODs from the server.
 	# 
 	# Note: the server must have Distant Generation enabled for it to work.
-	enableServerGeneration = true
+	enableServerGeneration = false
 	#
 	# How many LOD generation requests per second should a client send? 
 	# Also limits the number of client requests allowed to stay in the server's queue.
