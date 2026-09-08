@@ -916,7 +916,7 @@ _version = 4
 	# When enabled, Distant Horizons will attempt to download missing LODs from the server.
 	# 
 	# Note: the server must have Distant Generation enabled for it to work.
-	enableServerGeneration = false
+	enableServerGeneration = true
 	#
 	# How many LOD generation requests per second should a client send? 
 	# Also limits the number of client requests allowed to stay in the server's queue.
