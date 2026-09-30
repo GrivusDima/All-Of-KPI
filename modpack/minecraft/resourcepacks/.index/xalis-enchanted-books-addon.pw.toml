@@ -1,91 +1,29 @@
-filename = "xali's Enchanted Books Addon v4 1.21.5.zip"
+filename = "xali's Enchanted Books Addon v3 1.21.zip"
 name = "xali's Enchanted Books - Addon"
-side = 'client'
-x-prismlauncher-dependencies = []
+side = ''
 x-prismlauncher-loaders = []
-x-prismlauncher-mc-versions = [
-    '1.21.5 Pre-Release 1',
-    '1.21.5 Pre-Release 2',
-    '1.21.5 Pre-Release 3',
-    '1.21.5 rc1',
-    '1.21.5 rc2',
-    '1.21.5-pre1',
-    '1.21.5-pre2',
-    '1.21.5-pre3',
-    '1.21.5-rc1',
-    '1.21.5-rc2',
-    '1.21.5',
-    '1.21.6 Pre-Release 1',
-    '1.21.6 Pre-Release 2',
-    '1.21.6 Pre-Release 3',
-    '1.21.6 Pre-Release 4',
-    '1.21.6 rc1',
-    '1.21.6-pre1',
-    '1.21.6-pre2',
-    '1.21.6-pre3',
-    '1.21.6-pre4',
-    '1.21.6-rc1',
-    '1.21.6',
-    '1.21.7 rc1',
-    '1.21.7 rc2',
-    '1.21.7-rc1',
-    '1.21.7-rc2',
-    '1.21.7',
-    '1.21.8 rc1',
-    '1.21.8-rc1',
-    '1.21.8',
-    '1.21.9 Pre-Release 1',
-    '1.21.9 Pre-Release 2',
-    '1.21.9 Pre-Release 3',
-    '1.21.9 Pre-Release 4',
-    '1.21.9 rc1',
-    '1.21.9-pre1',
-    '1.21.9-pre2',
-    '1.21.9-pre3',
-    '1.21.9-pre4',
-    '1.21.9-rc1',
-    '1.21.9',
-    '1.21.10 rc1',
-    '1.21.10-rc1',
-    '1.21.10',
-    '1.21.11 Pre-Release 1',
-    '1.21.11 Pre-Release 2',
-    '1.21.11 Pre-Release 3',
-    '1.21.11 Pre-Release 4',
-    '1.21.11 Pre-Release 5',
-    '1.21.11 rc1',
-    '1.21.11 rc2',
-    '1.21.11 rc3',
-    '1.21.11-pre1',
-    '1.21.11-pre2',
-    '1.21.11-pre3',
-    '1.21.11-pre4',
-    '1.21.11-pre5',
-    '1.21.11-rc1',
-    '1.21.11-rc2',
-    '1.21.11-rc3',
-    '1.21.11',
-    '25w10a',
-    '25w14craftmine',
-    '25w15a',
-    '25w16a',
-    '25w17a',
-    '25w18a',
-    '25w19a',
-    '25w20a',
-    '25w21a',
-    '26.1 snapshot 1',
-    '26.1-snapshot-1'
-]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'v4.0'
+x-prismlauncher-version-number = '3'
 
 [download]
-hash = '42cef5f972210ea81ffe19d2d0558394425cee241efba403861ac52223c7fa0dc4c748b49488759a9d6c3ef5269479168f80709d7e119aa3b1b98d5384da6b61'
+hash = '41d51bd8242fc5561585bc12d4d1be1e2ebf520b1f2fceb5375cab78c542f54ee2b68941be58df7de5d7af3b92dbfddb3751bc671a85c3ecda71a8e5cd53e791'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/LJazX7OI/versions/GVTlGeC4/xali%27s Enchanted Books Addon v4 1.21.5.zip'
+url = 'https://cdn.modrinth.com/data/LJazX7OI/versions/fQCQSDXn/xali%27s Enchanted Books Addon v3 1.21.zip'
 
 [update.modrinth]
 mod-id = 'LJazX7OI'
-version = 'GVTlGeC4'
+version = 'fQCQSDXn'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'G2Ib5c56'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'otVJckYQ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ZpBKASR2'
+type = 'REQUIRED'

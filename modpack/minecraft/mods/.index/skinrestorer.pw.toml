@@ -1,0 +1,18 @@
+filename = 'skinrestorer-2.11.0+1.21-neoforge.jar'
+name = 'SkinRestorer'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.11.0+1.21-neoforge'
+
+[download]
+hash = '4f3de8619a3ecf4e29a3df379d4215fa0ba3143577823505b169e0c61667183555698efba8a09393622ce707bfa8e1079f49e8f294f74f15cbc111772d73a334'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ghrZDhGW/versions/QFkb2iq2/skinrestorer-2.11.0%2B1.21-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'ghrZDhGW'
+version = 'QFkb2iq2'

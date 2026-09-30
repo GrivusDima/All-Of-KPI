@@ -1,0 +1,2 @@
+#Sat Sep 12 20:34:42 EEST 2026
+TONEMAP=ToneMap_Hejl2015

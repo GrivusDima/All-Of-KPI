@@ -1,18 +1,18 @@
-filename = 'visualhealth-neoforge-1.21.1-2.0.2.jar'
+filename = 'visualhealth-neoforge-1.21.1-2.0.4.jar'
 name = 'Visual Health'
-side = 'client'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.0.2-neoforge'
+x-prismlauncher-version-number = '2.0.4-neoforge'
 
 [download]
-hash = 'bd5116df986d7a178eca54ab3f658d3008a017bb931b017119154d0020c31a4c8d9c6079d9e2132674ea19bbd1de4851ec1d68945ae1ebc71232a03ef33ade60'
+hash = '69aa5680cc3d757cebd416be974b8209e8656bf7cd7bc2e813c4798488b2c3d938b5f56736eacbb03bcc2b4284f28fe16c11c9b883c248512a45e43157d69e63'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/X01iuqRJ/versions/e4b8Zxan/visualhealth-neoforge-1.21.1-2.0.2.jar'
+url = 'https://cdn.modrinth.com/data/X01iuqRJ/versions/rL7DXTI2/visualhealth-neoforge-1.21.1-2.0.4.jar'
 
 [update.modrinth]
 mod-id = 'X01iuqRJ'
-version = 'e4b8Zxan'
+version = 'rL7DXTI2'

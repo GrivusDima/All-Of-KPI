@@ -1,20 +1,20 @@
-filename = 'createbionics-2.1.1.jar'
-name = 'Create Bionics'
+filename = 'createbionics-2.5.0.jar'
+name = 'Create: Bionics'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.1.1'
+x-prismlauncher-version-number = '2.5.0'
 
 [download]
-hash = '026a10b3c220aaf5d784a847f914acb1a2e4b7b974e4c2b8e69a5555bbf4e70ce0517214438e9d3621dc2c87ebe573f1ae9dd357a6002739e0641601bcc0b28f'
+hash = '305bbf8834107c63cafd4c534d5af7896953687801688cadcbbf53858a7351c446e615a670eccb438776e2f824013de5f1793bd6ed56159e5603f069c2abc926'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/lCwu0vBo/versions/IB3jhYul/createbionics-2.1.1.jar'
+url = 'https://cdn.modrinth.com/data/lCwu0vBo/versions/fG2UIEqS/createbionics-2.5.0.jar'
 
 [update.modrinth]
 mod-id = 'lCwu0vBo'
-version = 'IB3jhYul'
+version = 'fG2UIEqS'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'LNytGWDc'

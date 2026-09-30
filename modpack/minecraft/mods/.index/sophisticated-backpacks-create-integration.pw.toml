@@ -1,27 +1,23 @@
-filename = 'sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar'
+filename = 'sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar'
 name = 'Sophisticated Backpacks Create Integration'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-0.1.8.134'
+x-prismlauncher-version-number = '1.21.1-0.2.1.171'
 
 [download]
-hash = '6b331668d85f421d64e85adce71ba3952b80c4ffecc38b86268d87dfcf16447c20e060b110c398ede4e5b95e18d8e59dd7304eab8a51860b1c82cb01ca6c6c9d'
+hash = '0dabc3fd8ffe79413669701032a6f397b0c5547f768324b8534f56e52b0129e62ece9a9277dc2a6a840a4be4acbbbba36f6fcdfab7da186853a115704e3790f2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/s85zLEDe/versions/ljF9gEMb/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar'
+url = 'https://cdn.modrinth.com/data/s85zLEDe/versions/xQr7vEEu/sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar'
 
 [update.modrinth]
 mod-id = 's85zLEDe'
-version = 'ljF9gEMb'
+version = 'xQr7vEEu'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nmoqTijg'
+addonId = 'TyCTlI4b'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
@@ -29,5 +25,9 @@ addonId = 'u6dRKJwZ'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'TyCTlI4b'
+addonId = 'nmoqTijg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
 type = 'REQUIRED'
